@@ -1,0 +1,3590 @@
+{
+    "Strip Center (Metro by T-Mobile)": {
+      "value": "Strip Center (Metro by T-Mobile)",
+      "latitude": 38.46964951,
+      "longitude": -121.8212193,
+      "href": "#"
+    },
+    "Strip Center (Via Del Mar Shopping Center) (Wingstop, Metro by T-Mobile, Wells Fargo, RAC, Subway)": {
+      "value": "Strip Center (Via Del Mar Shopping Center) (Wingstop, Metro by T-Mobile, Wells Fargo, RAC, Subway)",
+      "latitude": 25.94397763,
+      "longitude": -97.42941021,
+      "href": "#"
+    },
+    "Strip Center (Las Palmas Plaza)(Raymond James)": {
+      "value": "Strip Center (Las Palmas Plaza)(Raymond James)",
+      "latitude": 25.9575475,
+      "longitude": -97.5079674,
+      "href": "#"
+    },
+    "Strip Center (Verizon Wireless, Sleep Number)": {
+      "value": "Strip Center (Verizon Wireless, Sleep Number)",
+      "latitude": 25.957975,
+      "longitude": -97.5084858,
+      "href": "#"
+    },
+    "Strip Center (The Monterra Shops) (Huey Magoo's, Tide Cleaners)": {
+      "value": "Strip Center (The Monterra Shops) (Huey Magoo's, Tide Cleaners)",
+      "latitude": 26.04085354,
+      "longitude": -80.25077322,
+      "href": "#"
+    },
+    "Strip Center (Triangle Plaza) (Mattress Firm, Batteries Plus)": {
+      "value": "Strip Center (Triangle Plaza) (Mattress Firm, Batteries Plus)",
+      "latitude": 26.06753171,
+      "longitude": -81.70369015,
+      "href": "#"
+    },
+    "Strip Center (Midtown Crossing South) (Starbucks)": {
+      "value": "Strip Center (Midtown Crossing South) (Starbucks)",
+      "latitude": 26.11944096,
+      "longitude": -80.26380551,
+      "href": "#"
+    },
+    "Strip Center": {
+      "value": "Strip Center",
+      "latitude": 41.80807129,
+      "longitude": -89.65751448,
+      "href": "#"
+    },
+    "Strip Center (Santa Lucia Plaza) (Fred Loya)": {
+      "value": "Strip Center (Santa Lucia Plaza) (Fred Loya)",
+      "latitude": 26.23288992,
+      "longitude": -98.17004024,
+      "href": "#"
+    },
+    "Strip Center (Hot Worx)": {
+      "value": "Strip Center (Hot Worx)",
+      "latitude": 26.2601574,
+      "longitude": -98.21975691,
+      "href": "#"
+    },
+    "Strip Center (Alton Plaza) (Total by Verizon)": {
+      "value": "Strip Center (Alton Plaza) (Total by Verizon)",
+      "latitude": 26.28924146,
+      "longitude": -98.31420473,
+      "href": "#"
+    },
+    "Strip Center (Hillsboro Crossing) (Chipotle, Panda Express, Jersey Mike's Subs)": {
+      "value": "Strip Center (Hillsboro Crossing) (Chipotle, Panda Express, Jersey Mike's Subs)",
+      "latitude": 26.31833461,
+      "longitude": -80.14829742,
+      "href": "#"
+    },
+    "Strip Center (Baron Shoppes) (Great Clips, Firehouse Subs, Moe's Southwest Grill)": {
+      "value": "Strip Center (Baron Shoppes) (Great Clips, Firehouse Subs, Moe's Southwest Grill)",
+      "latitude": 27.17232496,
+      "longitude": -80.23260434,
+      "href": "#"
+    },
+    "Strip Center (Visionworks, Banfield Pet Hospital)": {
+      "value": "Strip Center (Visionworks, Banfield Pet Hospital)",
+      "latitude": 27.2643127,
+      "longitude": -80.4039069,
+      "href": "#"
+    },
+    "Strip Center (Farmer's Insurance) (Tradition Executive Plaza)": {
+      "value": "Strip Center (Farmer's Insurance) (Tradition Executive Plaza)",
+      "latitude": 27.2841517,
+      "longitude": -80.4371076,
+      "href": "#"
+    },
+    "Strip Center (Fruitville Commons)": {
+      "value": "Strip Center (Fruitville Commons)",
+      "latitude": 27.33923673,
+      "longitude": -82.44385082,
+      "href": "#"
+    },
+    "Heartland Dental, Smoothie King Strip Center": {
+      "value": "Heartland Dental, Smoothie King Strip Center",
+      "latitude": 27.38590483,
+      "longitude": -82.39955372,
+      "href": "#"
+    },
+    "Strip Center (Dunkin' & Suncoast Credit Union)": {
+      "value": "Strip Center (Dunkin' & Suncoast Credit Union)",
+      "latitude": 27.4859405,
+      "longitude": -82.4327449,
+      "href": "#"
+    },
+    "Strip Center (Palmetto Plaza) (Dollar Tree, Pizza Hut, UPS)": {
+      "value": "Strip Center (Palmetto Plaza) (Dollar Tree, Pizza Hut, UPS)",
+      "latitude": 27.5239131,
+      "longitude": -82.572575,
+      "href": "#"
+    },
+    "Strip Center (Alice Shopping Center) (Hibbett Sports, Metro by T-Mobile, Wingstop)": {
+      "value": "Strip Center (Alice Shopping Center) (Hibbett Sports, Metro by T-Mobile, Wingstop)",
+      "latitude": 27.7676409,
+      "longitude": -98.0421288,
+      "href": "#"
+    },
+    "The Fountains (Dollar General)": {
+      "value": "The Fountains (Dollar General)",
+      "latitude": 27.82943721,
+      "longitude": -82.7289632,
+      "href": "#"
+    },
+    "Strip Center (Trulieve/Little Caesars)": {
+      "value": "Strip Center (Trulieve/Little Caesars)",
+      "latitude": 27.83871423,
+      "longitude": -82.73487332,
+      "href": "#"
+    },
+    "Strip Center (Madison Square Shopping Center) (Family Dollar)": {
+      "value": "Strip Center (Madison Square Shopping Center) (Family Dollar)",
+      "latitude": 27.89845006,
+      "longitude": -82.36993293,
+      "href": "#"
+    },
+    "Starbucks & Pavilion Dental Care": {
+      "value": "Starbucks & Pavilion Dental Care",
+      "latitude": 27.91447893,
+      "longitude": -82.34925339,
+      "href": "#"
+    },
+    "Strip Center (Jersey Mike's, Kay jewleers, Great Clips)": {
+      "value": "Strip Center (Jersey Mike's, Kay jewleers, Great Clips)",
+      "latitude": 28.00012054,
+      "longitude": -81.97438472,
+      "href": "#"
+    },
+    "Strip Center (Tint World)": {
+      "value": "Strip Center (Tint World)",
+      "latitude": 28.05333971,
+      "longitude": -82.73948454,
+      "href": "#"
+    },
+    "Esporta Strip Center": {
+      "value": "Esporta Strip Center",
+      "latitude": 28.06295383,
+      "longitude": -82.54257456,
+      "href": "#"
+    },
+    "Strip Center (Citrus Park Plaza) (Chipotle, AT&T, Bright Now! Dental, Charles Schwabb)": {
+      "value": "Strip Center (Citrus Park Plaza) (Chipotle, AT&T, Bright Now! Dental, Charles Schwabb)",
+      "latitude": 28.06647205,
+      "longitude": -82.57062498,
+      "href": "#"
+    },
+    "Strip Center (West Village Commons) (EOS, Dollar Tree,USPS)": {
+      "value": "Strip Center (West Village Commons) (EOS, Dollar Tree,USPS)",
+      "latitude": 28.08181092,
+      "longitude": -82.53990744,
+      "href": "#"
+    },
+    "Strip Center (Northtowne Square)": {
+      "value": "Strip Center (Northtowne Square)",
+      "latitude": 28.10858965,
+      "longitude": -81.97209571,
+      "href": "#"
+    },
+    "Strip Center (Citrus Crossing)(Pizza Hut, Harbor Freight, UPS)": {
+      "value": "Strip Center (Citrus Crossing)(Pizza Hut, Harbor Freight, UPS)",
+      "latitude": 28.12237327,
+      "longitude": -81.63787641,
+      "href": "#"
+    },
+    "Strip Center (Wickham Commons) (Little Caesars. GameStop, Firehouse Subs)": {
+      "value": "Strip Center (Wickham Commons) (Little Caesars. GameStop, Firehouse Subs)",
+      "latitude": 28.124495,
+      "longitude": -80.67192725,
+      "href": "#"
+    },
+    "Strip Center (AT&T | Stanton Optical)": {
+      "value": "Strip Center (AT&T | Stanton Optical)",
+      "latitude": 28.19690041,
+      "longitude": -81.43935818,
+      "href": "#"
+    },
+    "Strip Center (Gulf Harbor Plaza)(Dollar Tree, H&R Block, Boost Mobile)": {
+      "value": "Strip Center (Gulf Harbor Plaza)(Dollar Tree, H&R Block, Boost Mobile)",
+      "latitude": 28.22850167,
+      "longitude": -82.73065114,
+      "href": "#"
+    },
+    "Strip Center(Legacy Shops) ( Orlando Health)": {
+      "value": "Strip Center(Legacy Shops) ( Orlando Health)",
+      "latitude": 28.25929771,
+      "longitude": -81.60545279,
+      "href": "#"
+    },
+    "Strip Center (Mattress Firm)": {
+      "value": "Strip Center (Mattress Firm)",
+      "latitude": 28.26471397,
+      "longitude": -81.33185338,
+      "href": "#"
+    },
+    "Strip Center (Celebration Triangle)(Subway, T-Mobile)": {
+      "value": "Strip Center (Celebration Triangle)(Subway, T-Mobile)",
+      "latitude": 28.33352903,
+      "longitude": -81.5297912,
+      "href": "#"
+    },
+    "Strip Center (Denny's)": {
+      "value": "Strip Center (Denny's)",
+      "latitude": 28.34750914,
+      "longitude": -81.66333529,
+      "href": "#"
+    },
+    "Strip Center (Narcoossee Cove North) (Starbucks, The JOINT, Crumbl Cookies)": {
+      "value": "Strip Center (Narcoossee Cove North) (Starbucks, The JOINT, Crumbl Cookies)",
+      "latitude": 28.39360899,
+      "longitude": -81.24368219,
+      "href": "#"
+    },
+    "Strip Center (Domino's, Dunkin')": {
+      "value": "Strip Center (Domino's, Dunkin')",
+      "latitude": 28.41991621,
+      "longitude": -81.37097091,
+      "href": "#"
+    },
+    "Strip Center (International Towne Discount Center) (Subway, Marco's, Cheddar's)": {
+      "value": "Strip Center (International Towne Discount Center) (Subway, Marco's, Cheddar's)",
+      "latitude": 28.42024888,
+      "longitude": -81.46178716,
+      "href": "#"
+    },
+    "Strip Center (Phillips Village) (Dollar Tree, Planet Fitness)": {
+      "value": "Strip Center (Phillips Village) (Dollar Tree, Planet Fitness)",
+      "latitude": 28.4440511,
+      "longitude": -81.47575841,
+      "href": "#"
+    },
+    "Strip Center (Reedy Plaza) (NAPA, Rent-A-Center)": {
+      "value": "Strip Center (Reedy Plaza) (NAPA, Rent-A-Center)",
+      "latitude": 28.56874922,
+      "longitude": -81.23562054,
+      "href": "#"
+    },
+    "Strip Center (Orange Avenue Plaza) (Fluent)": {
+      "value": "Strip Center (Orange Avenue Plaza) (Fluent)",
+      "latitude": 28.568902,
+      "longitude": -81.37247742,
+      "href": "#"
+    },
+    "Strip Center (Chipotle)": {
+      "value": "Strip Center (Chipotle)",
+      "latitude": 30.39463078,
+      "longitude": -90.09236612,
+      "href": "#"
+    },
+    "Strip Center (Howell Branch Corner) (Starbucks,T-Mobile, Planet Smoothie)": {
+      "value": "Strip Center (Howell Branch Corner) (Starbucks,T-Mobile, Planet Smoothie)",
+      "latitude": 28.62600662,
+      "longitude": -81.31679697,
+      "href": "#"
+    },
+    "Strip Center (Starbucks, T-Mobile)": {
+      "value": "Strip Center (Starbucks, T-Mobile)",
+      "latitude": 37.8406904,
+      "longitude": -85.9380798,
+      "href": "#"
+    },
+    "Strip Center (Bushnell Commons) (Dollar Tree, Anytime Fitness, Little Caesars, CATO, T-Mobile)": {
+      "value": "Strip Center (Bushnell Commons) (Dollar Tree, Anytime Fitness, Little Caesars, CATO, T-Mobile)",
+      "latitude": 28.6671985,
+      "longitude": -82.14135392,
+      "href": "#"
+    },
+    "Strip Center (Marco's Pizza, AT&T, Bank of America)": {
+      "value": "Strip Center (Marco's Pizza, AT&T, Bank of America)",
+      "latitude": 28.7078685,
+      "longitude": -81.5097351,
+      "href": "#"
+    },
+    "Strip Center (Huey Magoo's)": {
+      "value": "Strip Center (Huey Magoo's)",
+      "latitude": 28.86582737,
+      "longitude": -82.01572479,
+      "href": "#"
+    },
+    "Strip Center (Hungry Howies, Gamestop, Metro PCS)": {
+      "value": "Strip Center (Hungry Howies, Gamestop, Metro PCS)",
+      "latitude": 28.87234696,
+      "longitude": -81.16442357,
+      "href": "#"
+    },
+    "Strip Center (County Crossings Village) (Marco's Pizza, StateFarm, Tropical Smoothie Cafe)": {
+      "value": "Strip Center (County Crossings Village) (Marco's Pizza, StateFarm, Tropical Smoothie Cafe)",
+      "latitude": 28.95755842,
+      "longitude": -81.96205158,
+      "href": "#"
+    },
+    "Strip Center (Bay City Shopping Center)(AT&T, CATO, Hibbett Sports, Subway, Sally Beauty)": {
+      "value": "Strip Center (Bay City Shopping Center)(AT&T, CATO, Hibbett Sports, Subway, Sally Beauty)",
+      "latitude": 28.9840098,
+      "longitude": -95.9367605,
+      "href": "#"
+    },
+    "Strip Center (Lake Jackson Towne Center) (Marco's Pizza, Tropical Smoothie Cafe, Chicken Salad Chick": {
+      "value": "Strip Center (Lake Jackson Towne Center) (Marco's Pizza, Tropical Smoothie Cafe, Chicken Salad Chick",
+      "latitude": 29.04201368,
+      "longitude": -95.44369439,
+      "href": "#"
+    },
+    "Strip Center (Dunnellon Plaza)": {
+      "value": "Strip Center (Dunnellon Plaza)",
+      "latitude": 29.06009695,
+      "longitude": -82.45313893,
+      "href": "#"
+    },
+    "Strip Center (MUV Cannabis)": {
+      "value": "Strip Center (MUV Cannabis)",
+      "latitude": 29.15296349,
+      "longitude": -82.18300933,
+      "href": "#"
+    },
+    "Strip Center (Crestwood Plaza) (Cato, Anytime Fitness, Dollar General, Tractor Supply Co.)": {
+      "value": "Strip Center (Crestwood Plaza) (Cato, Anytime Fitness, Dollar General, Tractor Supply Co.)",
+      "latitude": 29.1556293,
+      "longitude": -98.1665192,
+      "href": "#"
+    },
+    "Strip Center (Uvalde Shopping Center) (Cricket, CATO, GNC, Great Clips, Shoe Dept)": {
+      "value": "Strip Center (Uvalde Shopping Center) (Cricket, CATO, GNC, Great Clips, Shoe Dept)",
+      "latitude": 29.23543762,
+      "longitude": -99.75171006,
+      "href": "#"
+    },
+    "Strip Center (Rigsby Avenue Shopping Center) (Dollar Tree, CATO, Wingstop)": {
+      "value": "Strip Center (Rigsby Avenue Shopping Center) (Dollar Tree, CATO, Wingstop)",
+      "latitude": 29.40256463,
+      "longitude": -98.38749625,
+      "href": "#"
+    },
+    "Strip Center (Cricket, Liberty Tax)": {
+      "value": "Strip Center (Cricket, Liberty Tax)",
+      "latitude": 29.41089136,
+      "longitude": -98.62926764,
+      "href": "#"
+    },
+    "Strip Center (AT&T, H&R Block, Buffalo Wild Wings 'Go') (The Center at Foster)": {
+      "value": "Strip Center (AT&T, H&R Block, Buffalo Wild Wings 'Go') (The Center at Foster)",
+      "latitude": 29.46722146,
+      "longitude": -98.35944878,
+      "href": "#"
+    },
+    "Strip Center (Suwannee Plaza) (Hibbett Sports, Domino's, Cricket Wireless)": {
+      "value": "Strip Center (Suwannee Plaza) (Hibbett Sports, Domino's, Cricket Wireless)",
+      "latitude": 29.50080026,
+      "longitude": -82.867901,
+      "href": "#"
+    },
+    "Strip Center (Bandera Landing)(Good Year, StateFarm)": {
+      "value": "Strip Center (Bandera Landing)(Good Year, StateFarm)",
+      "latitude": 29.51561492,
+      "longitude": -98.63528118,
+      "href": "#"
+    },
+    "Strip Center (Belle Terre Shoppes) (Pizza Hut, AT&T, Firehouse Subs, Statefarm)": {
+      "value": "Strip Center (Belle Terre Shoppes) (Pizza Hut, AT&T, Firehouse Subs, Statefarm)",
+      "latitude": 29.55274247,
+      "longitude": -81.23552969,
+      "href": "#"
+    },
+    "Strip Center (Northern Hills Shopping Center) (Dunkin)": {
+      "value": "Strip Center (Northern Hills Shopping Center) (Dunkin)",
+      "latitude": 29.55297197,
+      "longitude": -98.40540943,
+      "href": "#"
+    },
+    "Strip Center (Clear Lake Corner) (Papa Johns, Pacific Dental)": {
+      "value": "Strip Center (Clear Lake Corner) (Papa Johns, Pacific Dental)",
+      "latitude": 29.55476746,
+      "longitude": -95.11931349,
+      "href": "#"
+    },
+    "Strip Center (Broadway Plaza- Phase II)(Pet Supplies Plus)": {
+      "value": "Strip Center (Broadway Plaza- Phase II)(Pet Supplies Plus)",
+      "latitude": 29.5547898,
+      "longitude": -95.4045495,
+      "href": "#"
+    },
+    "Strip Center (River Point Center)( Sherwin-Williams Paints)": {
+      "value": "Strip Center (River Point Center)( Sherwin-Williams Paints)",
+      "latitude": 29.56221151,
+      "longitude": -95.69240756,
+      "href": "#"
+    },
+    "Strip Center (Cibolo Shops)(Heartland Dental, The JOINT Chiropractic, Buffalo Wild Wings)": {
+      "value": "Strip Center (Cibolo Shops)(Heartland Dental, The JOINT Chiropractic, Buffalo Wild Wings)",
+      "latitude": 29.5715951,
+      "longitude": -98.2376206,
+      "href": "#"
+    },
+    "Strip Center (Beltway 8 Plaza) (Popeyes)": {
+      "value": "Strip Center (Beltway 8 Plaza) (Popeyes)",
+      "latitude": 29.59910938,
+      "longitude": -95.36667527,
+      "href": "#"
+    },
+    "Strip Center (La Cantera Heights South) (Tropical Smoothie Cafe, Nothing Bundt Cakes)": {
+      "value": "Strip Center (La Cantera Heights South) (Tropical Smoothie Cafe, Nothing Bundt Cakes)",
+      "latitude": 29.60359921,
+      "longitude": -98.60338453,
+      "href": "#"
+    },
+    "Strip Center (Canyon Creek)": {
+      "value": "Strip Center (Canyon Creek)",
+      "latitude": 29.60768909,
+      "longitude": -98.50571318,
+      "href": "#"
+    },
+    "Strip Center (Little Caesars) (Clearwood Crossing)": {
+      "value": "Strip Center (Little Caesars) (Clearwood Crossing)",
+      "latitude": 29.6124152,
+      "longitude": -95.1901384,
+      "href": "#"
+    },
+    "Strip Center (Citi Place) (Moe's, Little Caesars, Crumbl, Firehouse Subs)": {
+      "value": "Strip Center (Citi Place) (Moe's, Little Caesars, Crumbl, Firehouse Subs)",
+      "latitude": 29.6232599,
+      "longitude": -90.7592597,
+      "href": "#"
+    },
+    "Strip Center (The Market at Crenshaw)": {
+      "value": "Strip Center (The Market at Crenshaw)",
+      "latitude": 29.63907392,
+      "longitude": -95.15732649,
+      "href": "#"
+    },
+    "Strip Center (Greens Plaza at Evans) (The UPS Store)": {
+      "value": "Strip Center (Greens Plaza at Evans) (The UPS Store)",
+      "latitude": 29.64161424,
+      "longitude": -98.38126837,
+      "href": "#"
+    },
+    "Strip Center (Shops at Grand Mission)": {
+      "value": "Strip Center (Shops at Grand Mission)",
+      "latitude": 29.68261512,
+      "longitude": -95.71614932,
+      "href": "#"
+    },
+    "Strip Center (Shops on Grand Parkway) (Subway)": {
+      "value": "Strip Center (Shops on Grand Parkway) (Subway)",
+      "latitude": 29.69201794,
+      "longitude": -95.77336726,
+      "href": "#"
+    },
+    "Strip Center (Shops at Cross Creek) (Firehouse Subs)": {
+      "value": "Strip Center (Shops at Cross Creek) (Firehouse Subs)",
+      "latitude": 29.69762225,
+      "longitude": -95.84684761,
+      "href": "#"
+    },
+    "Strip Center (Domino's)": {
+      "value": "Strip Center (Domino's)",
+      "latitude": 41.32804766,
+      "longitude": -95.95813232,
+      "href": "#"
+    },
+    "Strip Center (Shoppes at Hwy 6) (Pizza Hut, Payless, The UPS Store)": {
+      "value": "Strip Center (Shoppes at Hwy 6) (Pizza Hut, Payless, The UPS Store)",
+      "latitude": 29.72229726,
+      "longitude": -95.64483722,
+      "href": "#"
+    },
+    "Strip Center (Westheimer at Dunvale) (Game Stop, Sprint, Papa Johns)": {
+      "value": "Strip Center (Westheimer at Dunvale) (Game Stop, Sprint, Papa Johns)",
+      "latitude": 29.73806305,
+      "longitude": -95.5151319,
+      "href": "#"
+    },
+    "Strip Center (Hawthorne Square) (Starbucks, Tutti Frutti)": {
+      "value": "Strip Center (Hawthorne Square) (Starbucks, Tutti Frutti)",
+      "latitude": 29.74191681,
+      "longitude": -95.39061033,
+      "href": "#"
+    },
+    "StripCenter (Speed Queen, Happy Cash)": {
+      "value": "StripCenter (Speed Queen, Happy Cash)",
+      "latitude": 29.76073806,
+      "longitude": -94.97650428,
+      "href": "#"
+    },
+    "Strip Center (Dominos)": {
+      "value": "Strip Center (Dominos)",
+      "latitude": 42.9816075,
+      "longitude": -85.0696336,
+      "href": "#"
+    },
+    "Strip Center (Lakes on Eldridge Centre)(Subway, Edward Jones)": {
+      "value": "Strip Center (Lakes on Eldridge Centre)(Subway, Edward Jones)",
+      "latitude": 29.8498955,
+      "longitude": -95.6051832,
+      "href": "#"
+    },
+    "Strip Center (Tidwell Plaza)(Cricket, Little Ceasars)": {
+      "value": "Strip Center (Tidwell Plaza)(Cricket, Little Ceasars)",
+      "latitude": 29.85342424,
+      "longitude": -95.18878071,
+      "href": "#"
+    },
+    "Strip Center (Yorktown Crossing) (Metro by T-Mobile)": {
+      "value": "Strip Center (Yorktown Crossing) (Metro by T-Mobile)",
+      "latitude": 29.85894064,
+      "longitude": -95.64593286,
+      "href": "#"
+    },
+    "Strip Center (Little York at North Freeway) (AT&T, Wingstop)": {
+      "value": "Strip Center (Little York at North Freeway) (AT&T, Wingstop)",
+      "latitude": 29.87060113,
+      "longitude": -95.40697962,
+      "href": "#"
+    },
+    "Strip Center (Shops at Copper Crossing) (Cricket Wireless, Ace Cash Express)": {
+      "value": "Strip Center (Shops at Copper Crossing) (Cricket Wireless, Ace Cash Express)",
+      "latitude": 29.87866746,
+      "longitude": -95.65407162,
+      "href": "#"
+    },
+    "Strip Center (Eagles on Hiffmeister) (Subway, Statefarm, HotWorx)": {
+      "value": "Strip Center (Eagles on Hiffmeister) (Subway, Statefarm, HotWorx)",
+      "latitude": 29.91567508,
+      "longitude": -95.63020404,
+      "href": "#"
+    },
+    "Strip Center (Buffalo Wild Wings, Firehouse Subs)": {
+      "value": "Strip Center (Buffalo Wild Wings, Firehouse Subs)",
+      "latitude": 29.92081648,
+      "longitude": -90.01225959,
+      "href": "#"
+    },
+    "Strip Center (T-Mobile, Navy Federal Credit Union)": {
+      "value": "Strip Center (T-Mobile, Navy Federal Credit Union)",
+      "latitude": 29.92106694,
+      "longitude": -90.01273956,
+      "href": "#"
+    },
+    "Summer Creek Plaza": {
+      "value": "Summer Creek Plaza",
+      "latitude": 29.935432,
+      "longitude": -95.21516055,
+      "href": "#"
+    },
+    "Strip Center (Central Mall Shoppes) (MOD Pizza, GNC, Eyeglass World)": {
+      "value": "Strip Center (Central Mall Shoppes) (MOD Pizza, GNC, Eyeglass World)",
+      "latitude": 29.94397546,
+      "longitude": -93.98953785,
+      "href": "#"
+    },
+    "Strip Center (Title Max, Advance Auto Parts)": {
+      "value": "Strip Center (Title Max, Advance Auto Parts)",
+      "latitude": 29.9639891,
+      "longitude": -95.4796243,
+      "href": "#"
+    },
+    "Strip Center (Subway)": {
+      "value": "Strip Center (Subway)",
+      "latitude": 41.73675987,
+      "longitude": -88.04170198,
+      "href": "#"
+    },
+    "Strip Center (New Iberia Shops) (Mattress Firm & Verizon)": {
+      "value": "Strip Center (New Iberia Shops) (Mattress Firm & Verizon)",
+      "latitude": 29.9861604,
+      "longitude": -91.82292131,
+      "href": "#"
+    },
+    "Strip Center (The Gardens Center) (Dollar Tree, Subway)": {
+      "value": "Strip Center (The Gardens Center) (Dollar Tree, Subway)",
+      "latitude": 29.98891312,
+      "longitude": -95.42596114,
+      "href": "#"
+    },
+    "Strip Center (The Vintage Center) (Purre Barre, Chicken Salad Chick, Goodwill)": {
+      "value": "Strip Center (The Vintage Center) (Purre Barre, Chicken Salad Chick, Goodwill)",
+      "latitude": 29.99877527,
+      "longitude": -95.56600671,
+      "href": "#"
+    },
+    "Strip Center (Vintage Crossing) (Dunkin)": {
+      "value": "Strip Center (Vintage Crossing) (Dunkin)",
+      "latitude": 29.99911121,
+      "longitude": -95.56491186,
+      "href": "#"
+    },
+    "Deerbrook Mall Pads (Chipotle & Tutti Frutti, Jared )": {
+      "value": "Deerbrook Mall Pads (Chipotle & Tutti Frutti, Jared )",
+      "latitude": 30.00569704,
+      "longitude": -95.2698457,
+      "href": "#"
+    },
+    "Strip Center (Dunkin)": {
+      "value": "Strip Center (Dunkin)",
+      "latitude": 45.12879112,
+      "longitude": -93.42298751,
+      "href": "#"
+    },
+    "Strip Center (Mercado Walk at Palencia)": {
+      "value": "Strip Center (Mercado Walk at Palencia)",
+      "latitude": 30.0140733,
+      "longitude": -81.3918578,
+      "href": "#"
+    },
+    "Strip Center (Kyle Crossing Phase II) (Snooze, Crust Pizza)": {
+      "value": "Strip Center (Kyle Crossing Phase II) (Snooze, Crust Pizza)",
+      "latitude": 30.01554021,
+      "longitude": -97.86769018,
+      "href": "#"
+    },
+    "Strip Center (Dry River District Shops) (The Vitamin Shoppe)": {
+      "value": "Strip Center (Dry River District Shops) (The Vitamin Shoppe)",
+      "latitude": 30.02864867,
+      "longitude": -97.85351477,
+      "href": "#"
+    },
+    "Strip Center (Parkway Place Shoppes)": {
+      "value": "Strip Center (Parkway Place Shoppes)",
+      "latitude": 30.09849732,
+      "longitude": -81.53804864,
+      "href": "#"
+    },
+    "Strip Center (Augusta Meadows Center) (Dunkin)": {
+      "value": "Strip Center (Augusta Meadows Center) (Dunkin)",
+      "latitude": 30.11180111,
+      "longitude": -95.55457199,
+      "href": "#"
+    },
+    "Strip Center (Royal Pines) (Pizza Hut)": {
+      "value": "Strip Center (Royal Pines) (Pizza Hut)",
+      "latitude": 30.15787937,
+      "longitude": -81.83491531,
+      "href": "#"
+    },
+    "Strip Center (Aspen Dental, Stanton Optical)": {
+      "value": "Strip Center (Aspen Dental, Stanton Optical)",
+      "latitude": 30.17876858,
+      "longitude": -92.07448918,
+      "href": "#"
+    },
+    "Strip Center (Shops at Bay City Point) (Blaze Pizza, Xfinity, The Vitamin Shoppe)": {
+      "value": "Strip Center (Shops at Bay City Point) (Blaze Pizza, Xfinity, The Vitamin Shoppe)",
+      "latitude": 30.18784459,
+      "longitude": -85.65393492,
+      "href": "#"
+    },
+    "Strip Center (Cannon Crossing) (T-Mobile, Einstein Bros)": {
+      "value": "Strip Center (Cannon Crossing) (T-Mobile, Einstein Bros)",
+      "latitude": 30.21964878,
+      "longitude": -97.83553401,
+      "href": "#"
+    },
+    "Strip Center (Magnolia Place) (Marco's Pizza, Twin Liquors, Go Health)": {
+      "value": "Strip Center (Magnolia Place) (Marco's Pizza, Twin Liquors, Go Health)",
+      "latitude": 30.22295484,
+      "longitude": -95.6846185,
+      "href": "#"
+    },
+    "Strip Center (Rent-a-Center)": {
+      "value": "Strip Center (Rent-a-Center)",
+      "latitude": 30.2378256,
+      "longitude": -92.0144209,
+      "href": "#"
+    },
+    "Strip Center (T-Mobile)": {
+      "value": "Strip Center (T-Mobile)",
+      "latitude": 37.1447127,
+      "longitude": -94.3096935,
+      "href": "#"
+    },
+    "Strip Center (Cameron Station Retal Center) (Cricket)": {
+      "value": "Strip Center (Cameron Station Retal Center) (Cricket)",
+      "latitude": 30.31168429,
+      "longitude": -97.70607129,
+      "href": "#"
+    },
+    "Strip Center (Dairy Queen)": {
+      "value": "Strip Center (Dairy Queen)",
+      "latitude": 30.37706631,
+      "longitude": -86.37607259,
+      "href": "#"
+    },
+    "Strip Center (Village Shoppes of Destin)": {
+      "value": "Strip Center (Village Shoppes of Destin)",
+      "latitude": 30.3848882,
+      "longitude": -86.3620776,
+      "href": "#"
+    },
+    "Strip Center (Shops at Domain) (Mattress Firm)": {
+      "value": "Strip Center (Shops at Domain) (Mattress Firm)",
+      "latitude": 30.393013,
+      "longitude": -97.726322,
+      "href": "#"
+    },
+    "Strip Center (5 Oaks Plaza) (AT&T, GameStop, Jackson Hewitt)": {
+      "value": "Strip Center (5 Oaks Plaza) (AT&T, GameStop, Jackson Hewitt)",
+      "latitude": 30.41198518,
+      "longitude": -97.6757327,
+      "href": "#"
+    },
+    "Strip Center (West Community Plaza) (Firehouse Subs, Smoohie King)": {
+      "value": "Strip Center (West Community Plaza) (Firehouse Subs, Smoohie King)",
+      "latitude": 30.4417164,
+      "longitude": -89.0992201,
+      "href": "#"
+    },
+    "Strip Center (Dollar Tree, GoAuto Insurance)": {
+      "value": "Strip Center (Dollar Tree, GoAuto Insurance)",
+      "latitude": 30.45217851,
+      "longitude": -91.11607478,
+      "href": "#"
+    },
+    "Family Dollar | Papa John's Pizza Strip Center": {
+      "value": "Family Dollar | Papa John's Pizza Strip Center",
+      "latitude": 30.46045148,
+      "longitude": -87.28957571,
+      "href": "#"
+    },
+    "Strip Center (Oak Plaza) (Sherwin-Williams, 9 Round Fitness, Dollar General)": {
+      "value": "Strip Center (Oak Plaza) (Sherwin-Williams, 9 Round Fitness, Dollar General)",
+      "latitude": 30.4663873,
+      "longitude": -81.6239685,
+      "href": "#"
+    },
+    "Strip Center (The Ridge Shopping Center ) (PJ's Coffee | Little Caesars)": {
+      "value": "Strip Center (The Ridge Shopping Center ) (PJ's Coffee | Little Caesars)",
+      "latitude": 30.474941,
+      "longitude": -87.24607513,
+      "href": "#"
+    },
+    "Strip Center (Pet Supplies Plus, Tropical Smoothie Cafe)": {
+      "value": "Strip Center (Pet Supplies Plus, Tropical Smoothie Cafe)",
+      "latitude": 30.4915626,
+      "longitude": -97.7272969,
+      "href": "#"
+    },
+    "Strip Center (9 Round)": {
+      "value": "Strip Center (9 Round)",
+      "latitude": 30.52923228,
+      "longitude": -97.79136964,
+      "href": "#"
+    },
+    "Strip Center (Domino's, True Core Fitness)": {
+      "value": "Strip Center (Domino's, True Core Fitness)",
+      "latitude": 30.54510045,
+      "longitude": -97.86711909,
+      "href": "#"
+    },
+    "Strip Center (Shops on University Blvd.)": {
+      "value": "Strip Center (Shops on University Blvd.)",
+      "latitude": 30.57233442,
+      "longitude": -97.6533057,
+      "href": "#"
+    },
+    "Strip Center (Shops at Hero Way)": {
+      "value": "Strip Center (Shops at Hero Way)",
+      "latitude": 30.57938472,
+      "longitude": -97.86557569,
+      "href": "#"
+    },
+    "Strip Center (Southwood Plaza)": {
+      "value": "Strip Center (Southwood Plaza)",
+      "latitude": 30.596926,
+      "longitude": -96.3014263,
+      "href": "#"
+    },
+    "Strip Center (Insomnia Cookies)": {
+      "value": "Strip Center (Insomnia Cookies)",
+      "latitude": 30.7103375,
+      "longitude": -95.5519252,
+      "href": "#"
+    },
+    "Strip Center (Sally, Cricket, Smoothie King, Urgent Care)": {
+      "value": "Strip Center (Sally, Cricket, Smoothie King, Urgent Care)",
+      "latitude": 30.80147911,
+      "longitude": -88.09838399,
+      "href": "#"
+    },
+    "Strip Center (Shops at Temple Towne Center) (Yummy Crab, Leslie's Pool Supplies)": {
+      "value": "Strip Center (Shops at Temple Towne Center) (Yummy Crab, Leslie's Pool Supplies)",
+      "latitude": 31.07664564,
+      "longitude": -97.37731264,
+      "href": "#"
+    },
+    "Strip Center (The Shops At Killeen Mall)( FedEx, Verizon,": {
+      "value": "Strip Center (The Shops At Killeen Mall)( FedEx, Verizon,",
+      "latitude": 31.08873334,
+      "longitude": -97.71308856,
+      "href": "#"
+    },
+    "Strip Center (Brewton Shopping Center) (Walmart Out) (Dollar Tree, Cato, AT&T, Hibbett Sports)": {
+      "value": "Strip Center (Brewton Shopping Center) (Walmart Out) (Dollar Tree, Cato, AT&T, Hibbett Sports)",
+      "latitude": 31.1468434,
+      "longitude": -87.0652865,
+      "href": "#"
+    },
+    "Strip Center (Gatesville Shopping Center) (Verizon, Little Caesars, Dollar Tree)": {
+      "value": "Strip Center (Gatesville Shopping Center) (Verizon, Little Caesars, Dollar Tree)",
+      "latitude": 31.4267463,
+      "longitude": -97.71333409,
+      "href": "#"
+    },
+    "Strip Center (Lakeview Towne Center) (Dollar Tree, CATO, Metro by T-Moibile, Sally Beauty)": {
+      "value": "Strip Center (Lakeview Towne Center) (Dollar Tree, CATO, Metro by T-Moibile, Sally Beauty)",
+      "latitude": 31.48558006,
+      "longitude": -100.4600107,
+      "href": "#"
+    },
+    "Strip Center (Starbucks)": {
+      "value": "Strip Center (Starbucks)",
+      "latitude": 38.65655507,
+      "longitude": -121.3841655,
+      "href": "#"
+    },
+    "Strip Center (Sierra Vista Plaza) (AT&T, Cool Cuts)": {
+      "value": "Strip Center (Sierra Vista Plaza) (AT&T, Cool Cuts)",
+      "latitude": 31.55431363,
+      "longitude": -110.2755647,
+      "href": "#"
+    },
+    "Strip Center (Sandhills Plaza)": {
+      "value": "Strip Center (Sandhills Plaza)",
+      "latitude": 31.59167557,
+      "longitude": -102.9078872,
+      "href": "#"
+    },
+    "Strip Center (Waynesboro Plaza) (Dollar Tree, CATO, AT&T, Hibbett Sports)": {
+      "value": "Strip Center (Waynesboro Plaza) (Dollar Tree, CATO, AT&T, Hibbett Sports)",
+      "latitude": 31.68718077,
+      "longitude": -88.63092612,
+      "href": "#"
+    },
+    "Strip Center (Pecan Bayou)( Wing Stop, Great Clips)": {
+      "value": "Strip Center (Pecan Bayou)( Wing Stop, Great Clips)",
+      "latitude": 31.7316684,
+      "longitude": -98.9751205,
+      "href": "#"
+    },
+    "Strip Center (Midway Mall) (O'Reilly Auto Parts, Jackson Hewitt)": {
+      "value": "Strip Center (Midway Mall) (O'Reilly Auto Parts, Jackson Hewitt)",
+      "latitude": 31.80201237,
+      "longitude": -81.41883009,
+      "href": "#"
+    },
+    "Strip Center (Subway, Metro by T-Mobile)": {
+      "value": "Strip Center (Subway, Metro by T-Mobile)",
+      "latitude": 31.9014591,
+      "longitude": -106.4062399,
+      "href": "#"
+    },
+    "Strip Center (Jacksonville Village) (H&R Block, Supercuts, Little Caesars, )": {
+      "value": "Strip Center (Jacksonville Village) (H&R Block, Supercuts, Little Caesars, )",
+      "latitude": 31.95407595,
+      "longitude": -95.26759759,
+      "href": "#"
+    },
+    "Fresh Market Shoppes (T-Mobile, TFM, Pizza Hut, Dollar Tree)": {
+      "value": "Fresh Market Shoppes (T-Mobile, TFM, Pizza Hut, Dollar Tree)",
+      "latitude": 32.170426,
+      "longitude": -80.738992,
+      "href": "#"
+    },
+    "Strip Center (Dollar Tree, AT&T) (Byram Town Center Shops)": {
+      "value": "Strip Center (Dollar Tree, AT&T) (Byram Town Center Shops)",
+      "latitude": 32.1868756,
+      "longitude": -90.2662222,
+      "href": "#"
+    },
+    "Strip Center (Ace Cash Express, Cricket Wireless)": {
+      "value": "Strip Center (Ace Cash Express, Cricket Wireless)",
+      "latitude": 32.18976612,
+      "longitude": -110.9679193,
+      "href": "#"
+    },
+    "Strip Center (State Farm)": {
+      "value": "Strip Center (State Farm)",
+      "latitude": 32.21884767,
+      "longitude": -110.7737642,
+      "href": "#"
+    },
+    "Strip Center (Tropical Smoothie Cafe, Jeremiah's Italian Ice)": {
+      "value": "Strip Center (Tropical Smoothie Cafe, Jeremiah's Italian Ice)",
+      "latitude": 32.25031499,
+      "longitude": -110.8931616,
+      "href": "#"
+    },
+    "Strip Center (Alexander Plaza) (America's Best)": {
+      "value": "Strip Center (Alexander Plaza) (America's Best)",
+      "latitude": 32.27640335,
+      "longitude": -95.30612501,
+      "href": "#"
+    },
+    "Strip Center (Metro Junction) (CATO, Shoe Show)": {
+      "value": "Strip Center (Metro Junction) (CATO, Shoe Show)",
+      "latitude": 32.28788972,
+      "longitude": -90.27097481,
+      "href": "#"
+    },
+    "Strip Center (Shops at Shiloh) (Great Clips)": {
+      "value": "Strip Center (Shops at Shiloh) (Great Clips)",
+      "latitude": 32.29564998,
+      "longitude": -95.26310261,
+      "href": "#"
+    },
+    "Strip Center (Game Stop)": {
+      "value": "Strip Center (Game Stop)",
+      "latitude": 32.31401206,
+      "longitude": -106.7521009,
+      "href": "#"
+    },
+    "Strip Center (The Shoppes at Orange Grove)(Sherwin-Williams)": {
+      "value": "Strip Center (The Shoppes at Orange Grove)(Sherwin-Williams)",
+      "latitude": 32.32136711,
+      "longitude": -111.0468365,
+      "href": "#"
+    },
+    "Strip Center (East Chase Shops) (Kay Jewlers, Aspen Dental)": {
+      "value": "Strip Center (East Chase Shops) (Kay Jewlers, Aspen Dental)",
+      "latitude": 32.3589494,
+      "longitude": -86.1704508,
+      "href": "#"
+    },
+    "Strip Center (AFC Urgent Care)": {
+      "value": "Strip Center (AFC Urgent Care)",
+      "latitude": 32.3596573,
+      "longitude": -86.1623395,
+      "href": "#"
+    },
+    "StripCenter (Men's Wearhouse, Charles Schwab)": {
+      "value": "StripCenter (Men's Wearhouse, Charles Schwab)",
+      "latitude": 32.40737679,
+      "longitude": -99.7767953,
+      "href": "#"
+    },
+    "Strip Center (Selma Shopping Center)(CATO, Cricket, Dollar Tree)": {
+      "value": "Strip Center (Selma Shopping Center)(CATO, Cricket, Dollar Tree)",
+      "latitude": 32.4319239,
+      "longitude": -86.9223432,
+      "href": "#"
+    },
+    "Striup Center (Marana Main Gate North) (Starbucks)": {
+      "value": "Striup Center (Marana Main Gate North) (Starbucks)",
+      "latitude": 32.45854582,
+      "longitude": -111.2167042,
+      "href": "#"
+    },
+    "Strip Center (Main Street Plaza)": {
+      "value": "Strip Center (Main Street Plaza)",
+      "latitude": 32.5099856,
+      "longitude": -96.80552938,
+      "href": "#"
+    },
+    "Strip Center (Tropical Smoothie Cafe)": {
+      "value": "Strip Center (Tropical Smoothie Cafe)",
+      "latitude": 32.5315589,
+      "longitude": -97.3382822,
+      "href": "#"
+    },
+    "Strip Center (Hawkins Crossing) (Red Wing, Fresh Dental)": {
+      "value": "Strip Center (Hawkins Crossing) (Red Wing, Fresh Dental)",
+      "latitude": 32.54340855,
+      "longitude": -94.7251403,
+      "href": "#"
+    },
+    "Strip Center (McAlister Retail) (Jason's, Five Guys)": {
+      "value": "Strip Center (McAlister Retail) (Jason's, Five Guys)",
+      "latitude": 32.57248442,
+      "longitude": -97.3178139,
+      "href": "#"
+    },
+    "Strip Center (Sleep Number)": {
+      "value": "Strip Center (Sleep Number)",
+      "latitude": 32.57455199,
+      "longitude": -97.31830027,
+      "href": "#"
+    },
+    "StripCenter (Sleep Number)": {
+      "value": "StripCenter (Sleep Number)",
+      "latitude": 32.57462379,
+      "longitude": -97.31823418,
+      "href": "#"
+    },
+    "Texas Star Plaza": {
+      "value": "Texas Star Plaza",
+      "latitude": 32.59069863,
+      "longitude": -96.94297508,
+      "href": "#"
+    },
+    "Strip Center (Matlock Road Retail Center) (Verizon, Wingstop, Ubreakifix)": {
+      "value": "Strip Center (Matlock Road Retail Center) (Verizon, Wingstop, Ubreakifix)",
+      "latitude": 32.60484999,
+      "longitude": -97.1150977,
+      "href": "#"
+    },
+    "StripCenter (Men's Warehouse)": {
+      "value": "StripCenter (Men's Warehouse)",
+      "latitude": 32.61968684,
+      "longitude": -85.40929487,
+      "href": "#"
+    },
+    "Strip Center (Seagoville Shopping Center) (Cricket, Great Clips)": {
+      "value": "Strip Center (Seagoville Shopping Center) (Cricket, Great Clips)",
+      "latitude": 32.64826419,
+      "longitude": -96.5351065,
+      "href": "#"
+    },
+    "Strip Center (Duncanville Strip) (Dunkin, Baskin Robbins, Little Caesars)": {
+      "value": "Strip Center (Duncanville Strip) (Dunkin, Baskin Robbins, Little Caesars)",
+      "latitude": 32.64878255,
+      "longitude": -96.94233494,
+      "href": "#"
+    },
+    "Strip Center (Park Springs Commons)": {
+      "value": "Strip Center (Park Springs Commons)",
+      "latitude": 32.67697058,
+      "longitude": -97.1672106,
+      "href": "#"
+    },
+    "Strip Center (The Shops at Terrell) (Super Cuts)": {
+      "value": "Strip Center (The Shops at Terrell) (Super Cuts)",
+      "latitude": 32.71923109,
+      "longitude": -96.32259126,
+      "href": "#"
+    },
+    "Strip Center (7- Eleven, Exxon)": {
+      "value": "Strip Center (7- Eleven, Exxon)",
+      "latitude": 32.7192591,
+      "longitude": -96.6827334,
+      "href": "#"
+    },
+    "Strip Center (Forney Retail Center) (Hot Worx, Wingstop, Nothing Bundt Cakes)": {
+      "value": "Strip Center (Forney Retail Center) (Hot Worx, Wingstop, Nothing Bundt Cakes)",
+      "latitude": 32.72992426,
+      "longitude": -96.45760759,
+      "href": "#"
+    },
+    "Strip Center (Verizon, Domino's)": {
+      "value": "Strip Center (Verizon, Domino's)",
+      "latitude": 32.73621887,
+      "longitude": -79.96809603,
+      "href": "#"
+    },
+    "Strip Center (R. Greenleaf, AT&T, Wing Stop) (Hobbs Pavilion)": {
+      "value": "Strip Center (R. Greenleaf, AT&T, Wing Stop) (Hobbs Pavilion)",
+      "latitude": 32.7410006,
+      "longitude": -103.1595591,
+      "href": "#"
+    },
+    "Strip Center (The Shoppes of Hawks Creek)(StateFarm)": {
+      "value": "Strip Center (The Shoppes of Hawks Creek)(StateFarm)",
+      "latitude": 32.7578776,
+      "longitude": -97.4273716,
+      "href": "#"
+    },
+    "Strip Center (Bees Ferry Landing Shopping Center) (Subway, Domino's, State Farm)": {
+      "value": "Strip Center (Bees Ferry Landing Shopping Center) (Subway, Domino's, State Farm)",
+      "latitude": 32.8039265,
+      "longitude": -80.11785416,
+      "href": "#"
+    },
+    "Strip Center (Story Crossing) (T-Mobile, Starbucks)": {
+      "value": "Strip Center (Story Crossing) (T-Mobile, Starbucks)",
+      "latitude": 32.83799835,
+      "longitude": -96.97888698,
+      "href": "#"
+    },
+    "Strip Center (Victory Shops at Baswood VI) (Swig, Thrive)": {
+      "value": "Strip Center (Victory Shops at Baswood VI) (Swig, Thrive)",
+      "latitude": 32.86851142,
+      "longitude": -97.34178322,
+      "href": "#"
+    },
+    "Strip Center (Presido Towne Crossing) (Crumbl, Red Wing, The Joint, Brident)": {
+      "value": "Strip Center (Presido Towne Crossing) (Crumbl, Red Wing, The Joint, Brident)",
+      "latitude": 32.90459482,
+      "longitude": -97.32305636,
+      "href": "#"
+    },
+    "Strip Center (Fate Village) (Hot Worx, Pet Supplies Plus, Jersey Mikes, Great Clips)": {
+      "value": "Strip Center (Fate Village) (Hot Worx, Pet Supplies Plus, Jersey Mikes, Great Clips)",
+      "latitude": 32.93016552,
+      "longitude": -96.38145437,
+      "href": "#"
+    },
+    "Strip Center (Golden Triangle Square) (Dunkin)": {
+      "value": "Strip Center (Golden Triangle Square) (Dunkin)",
+      "latitude": 32.93082279,
+      "longitude": -97.27242493,
+      "href": "#"
+    },
+    "Strip Center (Southlake Pavilion)": {
+      "value": "Strip Center (Southlake Pavilion)",
+      "latitude": 32.93954068,
+      "longitude": -97.18182364,
+      "href": "#"
+    },
+    "Strip Center (Dollar Tree, Cricket Wireless) (Brent Marketplace)": {
+      "value": "Strip Center (Dollar Tree, Cricket Wireless) (Brent Marketplace)",
+      "latitude": 32.9432795,
+      "longitude": -87.1546781,
+      "href": "#"
+    },
+    "Strip Center (Victory Shops at Richardson Square)(Dunkin', Visionworks)": {
+      "value": "Strip Center (Victory Shops at Richardson Square)(Dunkin', Visionworks)",
+      "latitude": 32.94544015,
+      "longitude": -96.70361044,
+      "href": "#"
+    },
+    "Strip Center (Northridge Court) (Anytime Fitness)": {
+      "value": "Strip Center (Northridge Court) (Anytime Fitness)",
+      "latitude": 32.9532507,
+      "longitude": -96.85654745,
+      "href": "#"
+    },
+    "Strip Center (The Shops at Sachse)(Starbucks)": {
+      "value": "Strip Center (The Shops at Sachse)(Starbucks)",
+      "latitude": 32.9930899,
+      "longitude": -96.5680795,
+      "href": "#"
+    },
+    "Strip Center (Aspen Dental, Tropical Smoothie Cafe)": {
+      "value": "Strip Center (Aspen Dental, Tropical Smoothie Cafe)",
+      "latitude": 33.0197224,
+      "longitude": -96.7149292,
+      "href": "#"
+    },
+    "Strip Center (Realm Gateway II)": {
+      "value": "Strip Center (Realm Gateway II)",
+      "latitude": 33.06107485,
+      "longitude": -96.88766657,
+      "href": "#"
+    },
+    "Strip Center (Mcdermott Commons South) (Subway, H&R Block)": {
+      "value": "Strip Center (Mcdermott Commons South) (Subway, H&R Block)",
+      "latitude": 33.09916608,
+      "longitude": -96.73155306,
+      "href": "#"
+    },
+    "Strip Center (F45)": {
+      "value": "Strip Center (F45)",
+      "latitude": 33.10048337,
+      "longitude": -97.23116183,
+      "href": "#"
+    },
+    "Strip Center (Kumon)": {
+      "value": "Strip Center (Kumon)",
+      "latitude": 33.10050832,
+      "longitude": -97.23373074,
+      "href": "#"
+    },
+    "Strip Center (Northlake Commons 5A)": {
+      "value": "Strip Center (Northlake Commons 5A)",
+      "latitude": 33.10109571,
+      "longitude": -97.23257005,
+      "href": "#"
+    },
+    "Strip Center (Corinth Commons Shopping Center) (Pizza Hut, Title Max, Statefarm,)": {
+      "value": "Strip Center (Corinth Commons Shopping Center) (Pizza Hut, Title Max, Statefarm,)",
+      "latitude": 33.13300581,
+      "longitude": -97.04392611,
+      "href": "#"
+    },
+    "The Shops at Eldorado Village": {
+      "value": "The Shops at Eldorado Village",
+      "latitude": 33.16937298,
+      "longitude": -96.66606186,
+      "href": "#"
+    },
+    "Strip Center (Plaza on 380) (Firehouse Subs)": {
+      "value": "Strip Center (Plaza on 380) (Firehouse Subs)",
+      "latitude": 33.17481556,
+      "longitude": -96.50104026,
+      "href": "#"
+    },
+    "Strip Center (Prestonwood Polo Crossing) (Starbucks)": {
+      "value": "Strip Center (Prestonwood Polo Crossing) (Starbucks)",
+      "latitude": 33.18542326,
+      "longitude": -96.97777134,
+      "href": "#"
+    },
+    "Strip Center (Victory Shops at Stonebridge III) ( Burn Boot Camp)": {
+      "value": "Strip Center (Victory Shops at Stonebridge III) ( Burn Boot Camp)",
+      "latitude": 33.21704008,
+      "longitude": -96.72071801,
+      "href": "#"
+    },
+    "CVS": {
+      "value": "CVS",
+      "latitude": 33.2180406,
+      "longitude": -96.88105785,
+      "href": "#"
+    },
+    "Strip Center (Aroma Smiles)": {
+      "value": "Strip Center (Aroma Smiles)",
+      "latitude": 33.21874108,
+      "longitude": -96.67644098,
+      "href": "#"
+    },
+    "Strip Center (Providence Village Shops) (Great Clips, Little Ceasars, Hot Worx)": {
+      "value": "Strip Center (Providence Village Shops) (Great Clips, Little Ceasars, Hot Worx)",
+      "latitude": 33.2225066,
+      "longitude": -96.9583664,
+      "href": "#"
+    },
+    "Strip Center (Crumbl Cookies, State Farm)": {
+      "value": "Strip Center (Crumbl Cookies, State Farm)",
+      "latitude": 33.2298263,
+      "longitude": -86.8023682,
+      "href": "#"
+    },
+    "Strip Center (Jiffy Lube & O'Reilly)": {
+      "value": "Strip Center (Jiffy Lube & O'Reilly)",
+      "latitude": 33.24708098,
+      "longitude": -111.8452171,
+      "href": "#"
+    },
+    "Strip Center (Lindsay Shops)": {
+      "value": "Strip Center (Lindsay Shops)",
+      "latitude": 33.30834929,
+      "longitude": -111.7717106,
+      "href": "#"
+    },
+    "Strip Center (Summerlin Corners) (Dollar Tree) (Grocery Outparcel)": {
+      "value": "Strip Center (Summerlin Corners) (Dollar Tree) (Grocery Outparcel)",
+      "latitude": 33.37619035,
+      "longitude": -84.75276296,
+      "href": "#"
+    },
+    "Strip Center (Panera Bread, Buffalo Wild Wings, Peachtree Immediate Care)": {
+      "value": "Strip Center (Panera Bread, Buffalo Wild Wings, Peachtree Immediate Care)",
+      "latitude": 33.44821326,
+      "longitude": -84.32415431,
+      "href": "#"
+    },
+    "Strip Center (Starbucks, Verizon)": {
+      "value": "Strip Center (Starbucks, Verizon)",
+      "latitude": 33.45087814,
+      "longitude": -88.83582879,
+      "href": "#"
+    },
+    "Strip Center (Jersey Mike's, Piedmont Urgent Care)": {
+      "value": "Strip Center (Jersey Mike's, Piedmont Urgent Care)",
+      "latitude": 33.46494219,
+      "longitude": -84.22413266,
+      "href": "#"
+    },
+    "Strip Center (Satterfield Marketplace)(Chipotle, Tropical Smoothie Cafe, Aspen Dental)": {
+      "value": "Strip Center (Satterfield Marketplace)(Chipotle, Tropical Smoothie Cafe, Aspen Dental)",
+      "latitude": 33.47211205,
+      "longitude": -84.44281951,
+      "href": "#"
+    },
+    "The Osborn Marketplace": {
+      "value": "The Osborn Marketplace",
+      "latitude": 33.48685495,
+      "longitude": -112.0841826,
+      "href": "#"
+    },
+    "Strip Center (Arcadia 33)": {
+      "value": "Strip Center (Arcadia 33)",
+      "latitude": 33.49486342,
+      "longitude": -112.0101976,
+      "href": "#"
+    },
+    "Strip Center (Wingstop)": {
+      "value": "Strip Center (Wingstop)",
+      "latitude": 33.5364772,
+      "longitude": -112.2198991,
+      "href": "#"
+    },
+    "Strip Center (Slide Road Plaza Shopping Center) (Aarons, Texas Roadhouse)": {
+      "value": "Strip Center (Slide Road Plaza Shopping Center) (Aarons, Texas Roadhouse)",
+      "latitude": 33.53826988,
+      "longitude": -101.9211243,
+      "href": "#"
+    },
+    "Strip Center (Margarita Center)(Marco's Pizza)": {
+      "value": "Strip Center (Margarita Center)(Marco's Pizza)",
+      "latitude": 33.55660194,
+      "longitude": -117.1593635,
+      "href": "#"
+    },
+    "Strip Center (Aliso Viejo Town Center)(Cold Stone, F45, Buffalo Wild Wings)": {
+      "value": "Strip Center (Aliso Viejo Town Center)(Cold Stone, F45, Buffalo Wild Wings)",
+      "latitude": 33.57593471,
+      "longitude": -117.7266517,
+      "href": "#"
+    },
+    "Strip Center (Grease Monkey)": {
+      "value": "Strip Center (Grease Monkey)",
+      "latitude": 33.5759396,
+      "longitude": -84.37285984,
+      "href": "#"
+    },
+    "Strip Center (Boost Mobile, Little Ceasars)": {
+      "value": "Strip Center (Boost Mobile, Little Ceasars)",
+      "latitude": 33.57785194,
+      "longitude": -101.8666672,
+      "href": "#"
+    },
+    "Strip Center (H&R Block, Little Ceasars)": {
+      "value": "Strip Center (H&R Block, Little Ceasars)",
+      "latitude": 33.58317276,
+      "longitude": -102.3675027,
+      "href": "#"
+    },
+    "Strip Center (Palo Verde Shopping Center)": {
+      "value": "Strip Center (Palo Verde Shopping Center)",
+      "latitude": 33.58497707,
+      "longitude": -111.8341705,
+      "href": "#"
+    },
+    "Strip Center (Prince Creek Village Center) (Shop Only)": {
+      "value": "Strip Center (Prince Creek Village Center) (Shop Only)",
+      "latitude": 33.58640479,
+      "longitude": -79.05499232,
+      "href": "#"
+    },
+    "Strip Center (Fearless Plaza) (Amazon, Torchy's Tacos)": {
+      "value": "Strip Center (Fearless Plaza) (Amazon, Torchy's Tacos)",
+      "latitude": 33.58672902,
+      "longitude": -101.8692598,
+      "href": "#"
+    },
+    "Strip Center (Lubbock Tech Shopping Center) (Metro By T-Mobile, CATO, Cricket, Gamestop)": {
+      "value": "Strip Center (Lubbock Tech Shopping Center) (Metro By T-Mobile, CATO, Cricket, Gamestop)",
+      "latitude": 33.58869236,
+      "longitude": -101.8571636,
+      "href": "#"
+    },
+    "Strip Center (Verizon, Chipotle)": {
+      "value": "Strip Center (Verizon, Chipotle)",
+      "latitude": 33.59865219,
+      "longitude": -117.1725554,
+      "href": "#"
+    },
+    "Strip Center (Saguaro Plaza)(Sears)": {
+      "value": "Strip Center (Saguaro Plaza)(Sears)",
+      "latitude": 33.6063599,
+      "longitude": -111.7146544,
+      "href": "#"
+    },
+    "Strip Center (Pacific Dental, Little Caesars)": {
+      "value": "Strip Center (Pacific Dental, Little Caesars)",
+      "latitude": 33.62228994,
+      "longitude": -112.427334,
+      "href": "#"
+    },
+    "Strip Center (Elm Creek Crossing) (Schlotzsky's and Sport Clips)": {
+      "value": "Strip Center (Elm Creek Crossing) (Schlotzsky's and Sport Clips)",
+      "latitude": 33.6251763,
+      "longitude": -97.1535342,
+      "href": "#"
+    },
+    "Strip Center (The Shops at Surprise)": {
+      "value": "Strip Center (The Shops at Surprise)",
+      "latitude": 33.63629777,
+      "longitude": -112.358081,
+      "href": "#"
+    },
+    "Walmart Shadow Center - Monticello, AR": {
+      "value": "Walmart Shadow Center - Monticello, AR",
+      "latitude": 33.63760356,
+      "longitude": -91.80422814,
+      "href": "#"
+    },
+    "Strip Center (Conyers Station) (T-Mobile, Sleep Number, Five Guys, Jersey Mikes)": {
+      "value": "Strip Center (Conyers Station) (T-Mobile, Sleep Number, Five Guys, Jersey Mikes)",
+      "latitude": 33.64882667,
+      "longitude": -84.01038903,
+      "href": "#"
+    },
+    "Strip Center (Papa Murphy's, Liberty Tax)": {
+      "value": "Strip Center (Papa Murphy's, Liberty Tax)",
+      "latitude": 33.65191555,
+      "longitude": -112.2531078,
+      "href": "#"
+    },
+    "Strip Center (Dunkin', Chicken Salad Chick, Jersey Mikes)": {
+      "value": "Strip Center (Dunkin', Chicken Salad Chick, Jersey Mikes)",
+      "latitude": 33.65345749,
+      "longitude": -86.82425179,
+      "href": "#"
+    },
+    "Strip Center (Foothill Plaza)": {
+      "value": "Strip Center (Foothill Plaza)",
+      "latitude": 33.67075873,
+      "longitude": -117.6522817,
+      "href": "#"
+    },
+    "Strip Center (Village at Flat Shoals)(Wingstop, Subway)": {
+      "value": "Strip Center (Village at Flat Shoals)(Wingstop, Subway)",
+      "latitude": 33.68120825,
+      "longitude": -84.22676006,
+      "href": "#"
+    },
+    "Strip Center (Starbucks Pacific, Dental Services)": {
+      "value": "Strip Center (Starbucks Pacific, Dental Services)",
+      "latitude": 33.69659826,
+      "longitude": -117.087249,
+      "href": "#"
+    },
+    "Strip Center (South Rubidoux Plaza)(Cricket, Little Ceasars)": {
+      "value": "Strip Center (South Rubidoux Plaza)(Cricket, Little Ceasars)",
+      "latitude": 33.71487433,
+      "longitude": -116.2275668,
+      "href": "#"
+    },
+    "Strip Center ( T-Mobile & Schools First Credit Union)": {
+      "value": "Strip Center ( T-Mobile & Schools First Credit Union)",
+      "latitude": 33.72786554,
+      "longitude": -116.4018855,
+      "href": "#"
+    },
+    "Strip Center (Holmes Plaza)": {
+      "value": "Strip Center (Holmes Plaza)",
+      "latitude": 33.75254667,
+      "longitude": -84.46820298,
+      "href": "#"
+    },
+    "Strip Center (Eagle Plaza) (T-Mobile, CATO, Dollar Tree, Shoe Show)": {
+      "value": "Strip Center (Eagle Plaza) (T-Mobile, CATO, Dollar Tree, Shoe Show)",
+      "latitude": 33.7554222,
+      "longitude": -90.7139076,
+      "href": "#"
+    },
+    "Cave Creek Crossing Shops": {
+      "value": "Cave Creek Crossing Shops",
+      "latitude": 33.79806315,
+      "longitude": -111.9662238,
+      "href": "#"
+    },
+    "Strip Center (Teriyaki Madness)": {
+      "value": "Strip Center (Teriyaki Madness)",
+      "latitude": 33.8072753,
+      "longitude": -84.4122807,
+      "href": "#"
+    },
+    "Strip Center (McDonald's, AT&tT)": {
+      "value": "Strip Center (McDonald's, AT&tT)",
+      "latitude": 33.82509315,
+      "longitude": -92.42624988,
+      "href": "#"
+    },
+    "Strip Center (Buena Park Plaza) (Little Caesars, Sally Beauty Supply)": {
+      "value": "Strip Center (Buena Park Plaza) (Little Caesars, Sally Beauty Supply)",
+      "latitude": 33.83218765,
+      "longitude": -118.0267106,
+      "href": "#"
+    },
+    "Strip Center (Watson Lake Plaza) (Piedmont Urgent Care)": {
+      "value": "Strip Center (Watson Lake Plaza) (Piedmont Urgent Care)",
+      "latitude": 33.88347083,
+      "longitude": -83.94100474,
+      "href": "#"
+    },
+    "Strip Center (7-Eleven Bank of America, Wingstop, Domino's) (Rosecrans Crossing)": {
+      "value": "Strip Center (7-Eleven Bank of America, Wingstop, Domino's) (Rosecrans Crossing)",
+      "latitude": 33.90273847,
+      "longitude": -118.2557974,
+      "href": "#"
+    },
+    "Strip Center (Wilrose Plaza) (Boost, UPS Store)": {
+      "value": "Strip Center (Wilrose Plaza) (Boost, UPS Store)",
+      "latitude": 33.90361093,
+      "longitude": -118.2385885,
+      "href": "#"
+    },
+    "Strip Center (Raising Cane's, Panda Express, Panera Bread, Starbucks) (Chargers Commons)": {
+      "value": "Strip Center (Raising Cane's, Panda Express, Panera Bread, Starbucks) (Chargers Commons)",
+      "latitude": 33.91600709,
+      "longitude": -118.388468,
+      "href": "#"
+    },
+    "Strip Center (Sleep Number, Scrubs & Beyond)": {
+      "value": "Strip Center (Sleep Number, Scrubs & Beyond)",
+      "latitude": 33.92821752,
+      "longitude": -84.33663848,
+      "href": "#"
+    },
+    "Strip Center (Famous Footwear, Five Below)": {
+      "value": "Strip Center (Famous Footwear, Five Below)",
+      "latitude": 33.93860312,
+      "longitude": -117.2809463,
+      "href": "#"
+    },
+    "Western Plaza": {
+      "value": "Western Plaza",
+      "latitude": 33.93891021,
+      "longitude": -118.3085387,
+      "href": "#"
+    },
+    "Strip Center (Enterprise, Veronica's Insurance)": {
+      "value": "Strip Center (Enterprise, Veronica's Insurance)",
+      "latitude": 33.94413769,
+      "longitude": -117.4543192,
+      "href": "#"
+    },
+    "Strip Center (Boost Mobile,ACE Cash)": {
+      "value": "Strip Center (Boost Mobile,ACE Cash)",
+      "latitude": 33.94459412,
+      "longitude": -117.4541726,
+      "href": "#"
+    },
+    "Strip Center (Starbucks, T-Mobile, Waba Grill)": {
+      "value": "Strip Center (Starbucks, T-Mobile, Waba Grill)",
+      "latitude": 33.94547222,
+      "longitude": -117.4543284,
+      "href": "#"
+    },
+    "Strip Center (Garners Ferry) (Sally Beauty, StateFarm)": {
+      "value": "Strip Center (Garners Ferry) (Sally Beauty, StateFarm)",
+      "latitude": 33.96476551,
+      "longitude": -80.94115417,
+      "href": "#"
+    },
+    "Strip Center (Mcalisters Deli, Piedmont Urgent Care)": {
+      "value": "Strip Center (Mcalisters Deli, Piedmont Urgent Care)",
+      "latitude": 33.97067042,
+      "longitude": -84.55095053,
+      "href": "#"
+    },
+    "Strip Center (T-Mobile, Sport Clips)": {
+      "value": "Strip Center (T-Mobile, Sport Clips)",
+      "latitude": 33.99940156,
+      "longitude": -96.40878778,
+      "href": "#"
+    },
+    "Strip Center (Boost Mobile, 7-Eleven)": {
+      "value": "Strip Center (Boost Mobile, 7-Eleven)",
+      "latitude": 34.00353507,
+      "longitude": -118.2866127,
+      "href": "#"
+    },
+    "Strip Center (O'Reilly Auto Parts)": {
+      "value": "Strip Center (O'Reilly Auto Parts)",
+      "latitude": 34.01870562,
+      "longitude": -118.1110609,
+      "href": "#"
+    },
+    "Strip Center (Wing Stop)": {
+      "value": "Strip Center (Wing Stop)",
+      "latitude": 34.02733912,
+      "longitude": -118.4289384,
+      "href": "#"
+    },
+    "Strip Center (Center Point Plaza) (Quest Diagnostics, Waba Grill)": {
+      "value": "Strip Center (Center Point Plaza) (Quest Diagnostics, Waba Grill)",
+      "latitude": 34.03234904,
+      "longitude": -117.0755281,
+      "href": "#"
+    },
+    "Strip Center (De Queen Retail Center) (Verizon, Hibbett Sports)": {
+      "value": "Strip Center (De Queen Retail Center) (Verizon, Hibbett Sports)",
+      "latitude": 34.045273,
+      "longitude": -94.31967737,
+      "href": "#"
+    },
+    "StripCenter (Davita Dialysis)": {
+      "value": "StripCenter (Davita Dialysis)",
+      "latitude": 34.05093156,
+      "longitude": -118.1385121,
+      "href": "#"
+    },
+    "Strip Center (Foot Locker Center)": {
+      "value": "Strip Center (Foot Locker Center)",
+      "latitude": 34.0624,
+      "longitude": -80.96029,
+      "href": "#"
+    },
+    "Strip Center (Chipotle, Verizon, The Habit Burger, Starbucks)": {
+      "value": "Strip Center (Chipotle, Verizon, The Habit Burger, Starbucks)",
+      "latitude": 34.0775034,
+      "longitude": -118.264204,
+      "href": "#"
+    },
+    "Strip Center (Jersey Mike's, Chipotle)": {
+      "value": "Strip Center (Jersey Mike's, Chipotle)",
+      "latitude": 34.10797672,
+      "longitude": -117.4894744,
+      "href": "#"
+    },
+    "Strip Center (Bluegrass Village Center) (Jimmy John's, The UPS Store, PetVet, Ideal Dental)": {
+      "value": "Strip Center (Bluegrass Village Center) (Jimmy John's, The UPS Store, PetVet, Ideal Dental)",
+      "latitude": 34.11628628,
+      "longitude": -84.22394737,
+      "href": "#"
+    },
+    "Strip Center (FedEx and Westr Coast Dental)": {
+      "value": "Strip Center (FedEx and Westr Coast Dental)",
+      "latitude": 34.1347477,
+      "longitude": -117.4534431,
+      "href": "#"
+    },
+    "Strip Center (Enterprise)": {
+      "value": "Strip Center (Enterprise)",
+      "latitude": 34.1521584,
+      "longitude": -84.25048186,
+      "href": "#"
+    },
+    "Strip Center (Stanton Optical)": {
+      "value": "Strip Center (Stanton Optical)",
+      "latitude": 34.17066245,
+      "longitude": -84.78685436,
+      "href": "#"
+    },
+    "Strip Center (Shops at Thousand Oaks Marketplace)(The JOINT Chiropactic)": {
+      "value": "Strip Center (Shops at Thousand Oaks Marketplace)(The JOINT Chiropactic)",
+      "latitude": 34.1868373,
+      "longitude": -118.9092369,
+      "href": "#"
+    },
+    "Strip Center (O'Reilly)": {
+      "value": "Strip Center (O'Reilly)",
+      "latitude": 34.20185,
+      "longitude": -118.5926093,
+      "href": "#"
+    },
+    "Strip Center (Roman Shopping Center)(Dollar Tree, Family Dollar)": {
+      "value": "Strip Center (Roman Shopping Center)(Dollar Tree, Family Dollar)",
+      "latitude": 34.26454701,
+      "longitude": -85.15770674,
+      "href": "#"
+    },
+    "Strip Center (Dillon Shopping Center) (Cricket Wireless, Jersey Mike's, CATO, and Dollar Tree)": {
+      "value": "Strip Center (Dillon Shopping Center) (Cricket Wireless, Jersey Mike's, CATO, and Dollar Tree)",
+      "latitude": 34.4356364,
+      "longitude": -79.3705788,
+      "href": "#"
+    },
+    "Strip Center (Gateway Center)(CATO, Verizon,Sally Beauty)": {
+      "value": "Strip Center (Gateway Center)(CATO, Verizon,Sally Beauty)",
+      "latitude": 34.43908884,
+      "longitude": -103.1984359,
+      "href": "#"
+    },
+    "Strip Center (Liberty Village Center)(Little Ceasars, Metro by T-Mobile)": {
+      "value": "Strip Center (Liberty Village Center)(Little Ceasars, Metro by T-Mobile)",
+      "latitude": 34.47158362,
+      "longitude": -117.3635505,
+      "href": "#"
+    },
+    "Strip Center (Whataburger, Sleep Number)": {
+      "value": "Strip Center (Whataburger, Sleep Number)",
+      "latitude": 34.6039729,
+      "longitude": -92.5355195,
+      "href": "#"
+    },
+    "Strip Center (Laurel Plaza) (Little Caesars)": {
+      "value": "Strip Center (Laurel Plaza) (Little Caesars)",
+      "latitude": 34.61778543,
+      "longitude": -86.57004882,
+      "href": "#"
+    },
+    "Strip Center (Sleep Outfitters, AFC Urgent Care)": {
+      "value": "Strip Center (Sleep Outfitters, AFC Urgent Care)",
+      "latitude": 34.6594293,
+      "longitude": -86.4845704,
+      "href": "#"
+    },
+    "Strip Center (DaVita Dialysis)": {
+      "value": "Strip Center (DaVita Dialysis)",
+      "latitude": 34.6691893,
+      "longitude": -92.34619919,
+      "href": "#"
+    },
+    "Strip Center (Spectrum)": {
+      "value": "Strip Center (Spectrum)",
+      "latitude": 44.0624881,
+      "longitude": -92.5014369,
+      "href": "#"
+    },
+    "Strip Center (The Shoppes at Colonel Glenn) (Dominos)": {
+      "value": "Strip Center (The Shoppes at Colonel Glenn) (Dominos)",
+      "latitude": 34.7118261,
+      "longitude": -92.3974857,
+      "href": "#"
+    },
+    "StripCenter (Marco's Pizza)": {
+      "value": "StripCenter (Marco's Pizza)",
+      "latitude": 34.75412307,
+      "longitude": -86.73109693,
+      "href": "#"
+    },
+    "Strip Center (Starbucks, AFC Urgent Care)": {
+      "value": "Strip Center (Starbucks, AFC Urgent Care)",
+      "latitude": 34.76005958,
+      "longitude": -84.99176822,
+      "href": "#"
+    },
+    "Strip Center (Five Guys, Popeyes)": {
+      "value": "Strip Center (Five Guys, Popeyes)",
+      "latitude": 34.7689611,
+      "longitude": -77.3846131,
+      "href": "#"
+    },
+    "Strip Center (AFC Urgent Care, Cora Physical Therapy)": {
+      "value": "Strip Center (AFC Urgent Care, Cora Physical Therapy)",
+      "latitude": 34.8627446,
+      "longitude": -82.2781455,
+      "href": "#"
+    },
+    "Strip Center (Promenade at Carolina Reserve) (Starbucks, Verizon, Jimmy Johns,Crumbl, Sport Clips)": {
+      "value": "Strip Center (Promenade at Carolina Reserve) (Starbucks, Verizon, Jimmy Johns,Crumbl, Sport Clips)",
+      "latitude": 34.93789271,
+      "longitude": -80.83627001,
+      "href": "#"
+    },
+    "Strip Center (Super Cuts)": {
+      "value": "Strip Center (Super Cuts)",
+      "latitude": 34.93883912,
+      "longitude": -85.21789303,
+      "href": "#"
+    },
+    "Strip Center (McAllister's, T- Mobile, The JOINT Chiropractor)": {
+      "value": "Strip Center (McAllister's, T- Mobile, The JOINT Chiropractor)",
+      "latitude": 34.942581,
+      "longitude": -85.2212526,
+      "href": "#"
+    },
+    "Strip Center (The Shoppes of East Brainerd) (Starbucks, Crumbl Cookies)": {
+      "value": "Strip Center (The Shoppes of East Brainerd) (Starbucks, Crumbl Cookies)",
+      "latitude": 35.0050434,
+      "longitude": -85.1503164,
+      "href": "#"
+    },
+    "Strip Center (Crown Square) (Boost Mobile, Metro by T-Mobile, H&R Block)": {
+      "value": "Strip Center (Crown Square) (Boost Mobile, Metro by T-Mobile, H&R Block)",
+      "latitude": 35.01904417,
+      "longitude": -78.89933056,
+      "href": "#"
+    },
+    "Strip Center (FedEx, Stanton Optical)": {
+      "value": "Strip Center (FedEx, Stanton Optical)",
+      "latitude": 35.02742493,
+      "longitude": -85.15649985,
+      "href": "#"
+    },
+    "Strip Center (Shoppes at Hacks Cross) (The UPS Store, AT&T, Buffalo Wild Wings, Allstate)": {
+      "value": "Strip Center (Shoppes at Hacks Cross) (The UPS Store, AT&T, Buffalo Wild Wings, Allstate)",
+      "latitude": 35.04619488,
+      "longitude": -89.79471794,
+      "href": "#"
+    },
+    "Strip Center (Collierville Station) (Plato's Closet, Once Upon A Child, Methodist Healthcare)": {
+      "value": "Strip Center (Collierville Station) (Plato's Closet, Once Upon A Child, Methodist Healthcare)",
+      "latitude": 35.04637325,
+      "longitude": -89.70282256,
+      "href": "#"
+    },
+    "Strip Center (Starbucks, Chase)": {
+      "value": "Strip Center (Starbucks, Chase)",
+      "latitude": 35.048024,
+      "longitude": -89.798144,
+      "href": "#"
+    },
+    "Strip Center (Houston Levee Galleria) (Smoothie King)": {
+      "value": "Strip Center (Houston Levee Galleria) (Smoothie King)",
+      "latitude": 35.04895849,
+      "longitude": -89.73109674,
+      "href": "#"
+    },
+    "Strip Center (Habit Burger Grill, T-Mobile, Aspen Dental)": {
+      "value": "Strip Center (Habit Burger Grill, T-Mobile, Aspen Dental)",
+      "latitude": 35.0547998,
+      "longitude": -78.97339525,
+      "href": "#"
+    },
+    "Strip Center (Metro PCS,  Boost Mobile)": {
+      "value": "Strip Center (Metro PCS,  Boost Mobile)",
+      "latitude": 35.08593336,
+      "longitude": -106.6840382,
+      "href": "#"
+    },
+    "Strip Center (Eubank Plaza) (Liberty Tax, Cricket Wireless)": {
+      "value": "Strip Center (Eubank Plaza) (Liberty Tax, Cricket Wireless)",
+      "latitude": 35.09606191,
+      "longitude": -106.5332869,
+      "href": "#"
+    },
+    "Strip Center (Ridgeway Trace Shops)(Kay Jewlers, Smoothie King, The JOINT Chiropractic, Panda Expres": {
+      "value": "Strip Center (Ridgeway Trace Shops)(Kay Jewlers, Smoothie King, The JOINT Chiropractic, Panda Expres",
+      "latitude": 35.1019146,
+      "longitude": -89.8634812,
+      "href": "#"
+    },
+    "StripCenter (Red Wing, T-Mobile)": {
+      "value": "StripCenter (Red Wing, T-Mobile)",
+      "latitude": 35.11133442,
+      "longitude": -106.6037569,
+      "href": "#"
+    },
+    "Two 2-Tenant Retail Pads (Panera Bread, Buff City Soap)": {
+      "value": "Two 2-Tenant Retail Pads (Panera Bread, Buff City Soap)",
+      "latitude": 35.1293525,
+      "longitude": -85.2425116,
+      "href": "#"
+    },
+    "Strip Center (Dollar Tree, Cato, US Cellular, Sally Beaty, Shoe Show)": {
+      "value": "Strip Center (Dollar Tree, Cato, US Cellular, Sally Beaty, Shoe Show)",
+      "latitude": 35.16688537,
+      "longitude": -83.3672572,
+      "href": "#"
+    },
+    "Strip Center (Walmart Shadow Center - Franklin, NC) (Dollar Tree, CATO, Show Show, Sally Beauty, US": {
+      "value": "Strip Center (Walmart Shadow Center - Franklin, NC) (Dollar Tree, CATO, Show Show, Sally Beauty, US",
+      "latitude": 35.16712035,
+      "longitude": -83.36720641,
+      "href": "#"
+    },
+    "Strip Center (Marketplace at West Memphis) (AT&T, GameStop, Shoe Show, Rainbow, Rent-A-Center)": {
+      "value": "Strip Center (Marketplace at West Memphis) (AT&T, GameStop, Shoe Show, Rainbow, Rent-A-Center)",
+      "latitude": 35.1674702,
+      "longitude": -90.19912145,
+      "href": "#"
+    },
+    "Strip Center (Lanier Plaza) (Leslie's Pool Supplies, AVIS)": {
+      "value": "Strip Center (Lanier Plaza) (Leslie's Pool Supplies, AVIS)",
+      "latitude": 35.19628159,
+      "longitude": -80.76898909,
+      "href": "#"
+    },
+    "Strip Center (Amarillo Plaza - A) (Dollar Tree, AT&T, Subway)": {
+      "value": "Strip Center (Amarillo Plaza - A) (Dollar Tree, AT&T, Subway)",
+      "latitude": 35.21154297,
+      "longitude": -101.903985,
+      "href": "#"
+    },
+    "Strip Center (Kings Square) (Subway, Crumbl Cookies, Cycle Bar, TD Ameritrade)": {
+      "value": "Strip Center (Kings Square) (Subway, Crumbl Cookies, Cycle Bar, TD Ameritrade)",
+      "latitude": 35.21204521,
+      "longitude": -80.83371169,
+      "href": "#"
+    },
+    "Strip Center (Amarillo Plaza - B) (CATO, Game Stop, Cash Store)": {
+      "value": "Strip Center (Amarillo Plaza - B) (CATO, Game Stop, Cash Store)",
+      "latitude": 35.21245556,
+      "longitude": -101.9038642,
+      "href": "#"
+    },
+    "Strip Center (Tropical Smoothie Cafe, AT&T)": {
+      "value": "Strip Center (Tropical Smoothie Cafe, AT&T)",
+      "latitude": 35.2433702,
+      "longitude": -91.73465844,
+      "href": "#"
+    },
+    "Strip Center (Heartland Dental, T-Mobile)": {
+      "value": "Strip Center (Heartland Dental, T-Mobile)",
+      "latitude": 35.26973933,
+      "longitude": -89.66699544,
+      "href": "#"
+    },
+    "Strip Center (Forest Hills) (Chipotle, Jersey Mike's, Aspen Dental)": {
+      "value": "Strip Center (Forest Hills) (Chipotle, Jersey Mike's, Aspen Dental)",
+      "latitude": 35.33976408,
+      "longitude": -81.89996507,
+      "href": "#"
+    },
+    "Strip Center (Albemarle Crossing)": {
+      "value": "Strip Center (Albemarle Crossing)",
+      "latitude": 35.34552129,
+      "longitude": -80.16775135,
+      "href": "#"
+    },
+    "River Rock Plaza (FedEx Office, Dickey's Barbeque)": {
+      "value": "River Rock Plaza (FedEx Office, Dickey's Barbeque)",
+      "latitude": 35.39159446,
+      "longitude": -119.0925928,
+      "href": "#"
+    },
+    "Strip Center (Mattress Warehouse, Jersey Mikes, Sport Clips)": {
+      "value": "Strip Center (Mattress Warehouse, Jersey Mikes, Sport Clips)",
+      "latitude": 35.44965218,
+      "longitude": -79.13415137,
+      "href": "#"
+    },
+    "Strip Center (Wing Stop, Cricket Wireless)": {
+      "value": "Strip Center (Wing Stop, Cricket Wireless)",
+      "latitude": 35.49286637,
+      "longitude": -97.55042317,
+      "href": "#"
+    },
+    "Choctaw Shops (AT&T, Great Clips, T-Mobile, Cricket)": {
+      "value": "Choctaw Shops (AT&T, Great Clips, T-Mobile, Cricket)",
+      "latitude": 35.49453859,
+      "longitude": -97.27730595,
+      "href": "#"
+    },
+    "Strip Center (Dunkin, Boost Mobile)": {
+      "value": "Strip Center (Dunkin, Boost Mobile)",
+      "latitude": 35.5163006,
+      "longitude": -78.3219442,
+      "href": "#"
+    },
+    "Strip Center (Covington Corner) (Game Stop, Pizza Hut, CATO, Shoe Show, AT&T, It's Fashion)": {
+      "value": "Strip Center (Covington Corner) (Game Stop, Pizza Hut, CATO, Shoe Show, AT&T, It's Fashion)",
+      "latitude": 35.54608418,
+      "longitude": -89.66213269,
+      "href": "#"
+    },
+    "Strip Center (T-Mobile, Advance Financial)": {
+      "value": "Strip Center (T-Mobile, Advance Financial)",
+      "latitude": 35.58853986,
+      "longitude": -89.24079347,
+      "href": "#"
+    },
+    "Strip Center (The Vitamin Shoppe, America's Best Contacts Eyeglasses)": {
+      "value": "Strip Center (The Vitamin Shoppe, America's Best Contacts Eyeglasses)",
+      "latitude": 35.5905254,
+      "longitude": -82.5298296,
+      "href": "#"
+    },
+    "Strip Center (Jersey Mikes, The Habit Grill)": {
+      "value": "Strip Center (Jersey Mikes, The Habit Grill)",
+      "latitude": 35.60967059,
+      "longitude": -117.6699156,
+      "href": "#"
+    },
+    "Strip Center (Pacific Dental Sevices)": {
+      "value": "Strip Center (Pacific Dental Sevices)",
+      "latitude": 35.61790519,
+      "longitude": -106.031301,
+      "href": "#"
+    },
+    "Two-Tenant Retail Pad (Andy's and The Learning Center)": {
+      "value": "Two-Tenant Retail Pad (Andy's and The Learning Center)",
+      "latitude": 35.63778517,
+      "longitude": -97.46289843,
+      "href": "#"
+    },
+    "Strip Center (Tropical Smoothie Cafe, Swig, & Mo' Bettahs, Donatos)": {
+      "value": "Strip Center (Tropical Smoothie Cafe, Swig, & Mo' Bettahs, Donatos)",
+      "latitude": 35.64177725,
+      "longitude": -97.45982894,
+      "href": "#"
+    },
+    "Strip Center (Shops at Grove) (AT&T, Great Clips, Qdoba)": {
+      "value": "Strip Center (Shops at Grove) (AT&T, Great Clips, Qdoba)",
+      "latitude": 35.65365748,
+      "longitude": -97.57171319,
+      "href": "#"
+    },
+    "Strip Center (The Shoppes of Conover) (Subway, Hwy 55, AT&T)": {
+      "value": "Strip Center (The Shoppes of Conover) (Subway, Hwy 55, AT&T)",
+      "latitude": 35.7250777,
+      "longitude": -81.2099177,
+      "href": "#"
+    },
+    "Strip Center (Cricket)": {
+      "value": "Strip Center (Cricket)",
+      "latitude": 35.82067,
+      "longitude": -90.6624927,
+      "href": "#"
+    },
+    "Strip Center (Towne Creek Point) (Freddy's)": {
+      "value": "Strip Center (Towne Creek Point) (Freddy's)",
+      "latitude": 35.82323936,
+      "longitude": -84.27232892,
+      "href": "#"
+    },
+    "Strip Center (HTeaO and AT&T)": {
+      "value": "Strip Center (HTeaO and AT&T)",
+      "latitude": 35.863996,
+      "longitude": -101.9727273,
+      "href": "#"
+    },
+    "Strip Center (The Landings at Cedar Bluff) (GNC, Which Which, Wingstop)": {
+      "value": "Strip Center (The Landings at Cedar Bluff) (GNC, Which Which, Wingstop)",
+      "latitude": 35.9124571,
+      "longitude": -84.09012,
+      "href": "#"
+    },
+    "Strip Center (AFC Urgent Care, T-Mobile)": {
+      "value": "Strip Center (AFC Urgent Care, T-Mobile)",
+      "latitude": 35.91920197,
+      "longitude": -81.52404517,
+      "href": "#"
+    },
+    "Strip Center (Shops at Rocky Mount)": {
+      "value": "Strip Center (Shops at Rocky Mount)",
+      "latitude": 35.96754118,
+      "longitude": -77.81714782,
+      "href": "#"
+    },
+    "Strip Center (Aspen Dental, T-Mobile)": {
+      "value": "Strip Center (Aspen Dental, T-Mobile)",
+      "latitude": 35.9867964,
+      "longitude": -85.03881689,
+      "href": "#"
+    },
+    "Strip Center (The Shops at Aspen Creek) (Starbucks, Great Clips, The UPS Store)": {
+      "value": "Strip Center (The Shops at Aspen Creek) (Starbucks, Great Clips, The UPS Store)",
+      "latitude": 35.98890269,
+      "longitude": -95.80883621,
+      "href": "#"
+    },
+    "Strip Center (McDonald's, Loan Master)": {
+      "value": "Strip Center (McDonald's, Loan Master)",
+      "latitude": 35.99608099,
+      "longitude": -88.43942204,
+      "href": "#"
+    },
+    "Strip Center (Cactus Shops - A)": {
+      "value": "Strip Center (Cactus Shops - A)",
+      "latitude": 35.99980314,
+      "longitude": -115.244761,
+      "href": "#"
+    },
+    "Strip Center (Cactus Shops - Retail - C)": {
+      "value": "Strip Center (Cactus Shops - Retail - C)",
+      "latitude": 36.00012337,
+      "longitude": -115.2441466,
+      "href": "#"
+    },
+    "Strip Center (Metro by T-Mobile, Rent-A-Center)": {
+      "value": "Strip Center (Metro by T-Mobile, Rent-A-Center)",
+      "latitude": 36.00718896,
+      "longitude": -106.0655059,
+      "href": "#"
+    },
+    "Strip Center (Hotworx Yoga)": {
+      "value": "Strip Center (Hotworx Yoga)",
+      "latitude": 36.02931739,
+      "longitude": -115.1177694,
+      "href": "#"
+    },
+    "Strip Center (Tire Choice, Wingstop, Denny's)": {
+      "value": "Strip Center (Tire Choice, Wingstop, Denny's)",
+      "latitude": 36.030526,
+      "longitude": -115.211181,
+      "href": "#"
+    },
+    "Strip Center (Boost Mobile, Metro by T-Mobile) (Guilford Station)": {
+      "value": "Strip Center (Boost Mobile, Metro by T-Mobile) (Guilford Station)",
+      "latitude": 36.07630491,
+      "longitude": -79.89200591,
+      "href": "#"
+    },
+    "Strip Center (Shops at Harmon Square) (7-Eleven, White Castle)": {
+      "value": "Strip Center (Shops at Harmon Square) (7-Eleven, White Castle)",
+      "latitude": 36.1075555,
+      "longitude": -115.1524625,
+      "href": "#"
+    },
+    "Strip Center (The Shoppes at Main Street Market) (Aspen Dental, My Eye Lab, Truliant, Urgent Care)": {
+      "value": "Strip Center (The Shoppes at Main Street Market) (Aspen Dental, My Eye Lab, Truliant, Urgent Care)",
+      "latitude": 36.11286189,
+      "longitude": -80.08583398,
+      "href": "#"
+    },
+    "Strip Center (Jefferson City Plaza) (CATO, Shoe Sensation, T-Mobile)": {
+      "value": "Strip Center (Jefferson City Plaza) (CATO, Shoe Sensation, T-Mobile)",
+      "latitude": 36.12735718,
+      "longitude": -83.46817655,
+      "href": "#"
+    },
+    "Strip Center (Verizon, Krispy Kreme)": {
+      "value": "Strip Center (Verizon, Krispy Kreme)",
+      "latitude": 36.18440271,
+      "longitude": -80.27543644,
+      "href": "#"
+    },
+    "Strip Center  (Mattress Firm, Chipotle)": {
+      "value": "Strip Center  (Mattress Firm, Chipotle)",
+      "latitude": 36.19933712,
+      "longitude": -81.65804207,
+      "href": "#"
+    },
+    "Strip Center (Marie Callender's)": {
+      "value": "Strip Center (Marie Callender's)",
+      "latitude": 36.21604712,
+      "longitude": -115.2426065,
+      "href": "#"
+    },
+    "Strip Center (Visalia Square) (Sleep Number, Ubreakifix, Shoe Palace)": {
+      "value": "Strip Center (Visalia Square) (Sleep Number, Ubreakifix, Shoe Palace)",
+      "latitude": 36.30478446,
+      "longitude": -119.3133383,
+      "href": "#"
+    },
+    "Strip Center (Shops at Lemoore Plaza) (The UPS Store, Subway)": {
+      "value": "Strip Center (Shops at Lemoore Plaza) (The UPS Store, Subway)",
+      "latitude": 36.31219771,
+      "longitude": -119.7832713,
+      "href": "#"
+    },
+    "Strip Center (Club Plaza Shopping Center) (Starbucks)": {
+      "value": "Strip Center (Club Plaza Shopping Center) (Starbucks)",
+      "latitude": 36.31937711,
+      "longitude": -119.31429,
+      "href": "#"
+    },
+    "Strip Center (Starbucks, Chase Bank, The Joint Chiropractic)": {
+      "value": "Strip Center (Starbucks, Chase Bank, The Joint Chiropractic)",
+      "latitude": 36.3596099,
+      "longitude": -94.2151767,
+      "href": "#"
+    },
+    "Strip Center (Shoppes of West State) (Statefarm)": {
+      "value": "Strip Center (Shoppes of West State) (Statefarm)",
+      "latitude": 36.59325771,
+      "longitude": -82.21555727,
+      "href": "#"
+    },
+    "Strip Center (T-Mobile, Antime Fitness)": {
+      "value": "Strip Center (T-Mobile, Antime Fitness)",
+      "latitude": 36.63049003,
+      "longitude": -82.12371638,
+      "href": "#"
+    },
+    "Strip Center (Great Clips, CATO, Game Stop)": {
+      "value": "Strip Center (Great Clips, CATO, Game Stop)",
+      "latitude": 36.6699417,
+      "longitude": -87.4422627,
+      "href": "#"
+    },
+    "Strip Center Sunnyside Square Shopping Center (Supercuts)": {
+      "value": "Strip Center Sunnyside Square Shopping Center (Supercuts)",
+      "latitude": 36.73561361,
+      "longitude": -119.7010097,
+      "href": "#"
+    },
+    "Strip Center (Chipotle, Stanton Optical)": {
+      "value": "Strip Center (Chipotle, Stanton Optical)",
+      "latitude": 36.76789795,
+      "longitude": -108.1476453,
+      "href": "#"
+    },
+    "Strip Center (Shops at Broadway Faire) (Red Robin, FedEx)": {
+      "value": "Strip Center (Shops at Broadway Faire) (Red Robin, FedEx)",
+      "latitude": 36.80750868,
+      "longitude": -119.852774,
+      "href": "#"
+    },
+    "Strip Center (Starbucks. Verizon)": {
+      "value": "Strip Center (Starbucks. Verizon)",
+      "latitude": 36.8141581,
+      "longitude": -76.16742066,
+      "href": "#"
+    },
+    "Strip Center (Fairfield Shops) (Wingstop, Domino's)": {
+      "value": "Strip Center (Fairfield Shops) (Wingstop, Domino's)",
+      "latitude": 36.8143472,
+      "longitude": -76.16549538,
+      "href": "#"
+    },
+    "Strip Center (Chesapeake Square Plaza) (Jersey Mike's, Starbucks, GNC)": {
+      "value": "Strip Center (Chesapeake Square Plaza) (Jersey Mike's, Starbucks, GNC)",
+      "latitude": 36.82739332,
+      "longitude": -76.41031365,
+      "href": "#"
+    },
+    "Strip Center (Pizza Hut, Verizon)": {
+      "value": "Strip Center (Pizza Hut, Verizon)",
+      "latitude": 36.87548465,
+      "longitude": -89.57907947,
+      "href": "#"
+    },
+    "Strip Center (T-Mobile, Great Clips)": {
+      "value": "Strip Center (T-Mobile, Great Clips)",
+      "latitude": 37.0748089,
+      "longitude": -88.6877925,
+      "href": "#"
+    },
+    "Strip Center (Centre at Dino Crossing) (F45)": {
+      "value": "Strip Center (Centre at Dino Crossing) (F45)",
+      "latitude": 37.09998328,
+      "longitude": -113.5389492,
+      "href": "#"
+    },
+    "Strip Center (Arby's, T-Mobile)": {
+      "value": "Strip Center (Arby's, T-Mobile)",
+      "latitude": 37.1102923,
+      "longitude": -87.9044494,
+      "href": "#"
+    },
+    "Strip Center (Verizon)": {
+      "value": "Strip Center (Verizon)",
+      "latitude": 47.15641791,
+      "longitude": -122.3570075,
+      "href": "#"
+    },
+    "Strip Center (Chipotle,Panera)": {
+      "value": "Strip Center (Chipotle,Panera)",
+      "latitude": 37.31963699,
+      "longitude": -120.4864355,
+      "href": "#"
+    },
+    "Strip Center (Bermuda Shoppes) (Mattress Firm, Subway)": {
+      "value": "Strip Center (Bermuda Shoppes) (Mattress Firm, Subway)",
+      "latitude": 37.354005,
+      "longitude": -77.41148496,
+      "href": "#"
+    },
+    "Strip Center (Derby Retail Power Center)(Verizon, Great Clips, Domino's Freddy's)": {
+      "value": "Strip Center (Derby Retail Power Center)(Verizon, Great Clips, Domino's Freddy's)",
+      "latitude": 37.5691083,
+      "longitude": -97.2436559,
+      "href": "#"
+    },
+    "Strip Center (AAA)": {
+      "value": "Strip Center (AAA)",
+      "latitude": 37.72131832,
+      "longitude": -97.46211834,
+      "href": "#"
+    },
+    "Strip Center (Comotara Center) (Five Guys, Edward Jones, Statefarm)": {
+      "value": "Strip Center (Comotara Center) (Five Guys, Edward Jones, Statefarm)",
+      "latitude": 37.73628553,
+      "longitude": -97.24567861,
+      "href": "#"
+    },
+    "Strip Center (Chipotle, T-Mobile, Jamba Juice)": {
+      "value": "Strip Center (Chipotle, T-Mobile, Jamba Juice)",
+      "latitude": 37.7379373,
+      "longitude": -122.1974117,
+      "href": "#"
+    },
+    "Strip Center (Marion Shopping Center)(Maurices, Dollar Tree, GNC, Sport Clips)": {
+      "value": "Strip Center (Marion Shopping Center)(Maurices, Dollar Tree, GNC, Sport Clips)",
+      "latitude": 37.7470968,
+      "longitude": -88.9689866,
+      "href": "#"
+    },
+    "Strip Center (Shopps at Macarthur) (Great Clips, GameStop, One Main Financial)": {
+      "value": "Strip Center (Shopps at Macarthur) (Great Clips, GameStop, One Main Financial)",
+      "latitude": 37.75324278,
+      "longitude": -81.21941347,
+      "href": "#"
+    },
+    "Strip Center (Seminary Point)(Walgreens, Metro by T-Mobile, Bank of America": {
+      "value": "Strip Center (Seminary Point)(Walgreens, Metro by T-Mobile, Bank of America",
+      "latitude": 37.7714549,
+      "longitude": -122.1908569,
+      "href": "#"
+    },
+    "Strip Center (Shops at Slatten Ranch) (Habit Burger)": {
+      "value": "Strip Center (Shops at Slatten Ranch) (Habit Burger)",
+      "latitude": 37.96319145,
+      "longitude": -121.7365831,
+      "href": "#"
+    },
+    "Strip Center (Shops at Sonora Crossroads) (Mattress Firm, GameStop, Sally Beauty,  The UPS Store)": {
+      "value": "Strip Center (Shops at Sonora Crossroads) (Mattress Firm, GameStop, Sally Beauty,  The UPS Store)",
+      "latitude": 37.97295177,
+      "longitude": -120.3623697,
+      "href": "#"
+    },
+    "Strip Center (H&R Block) (Terrace Shopping Center)": {
+      "value": "Strip Center (H&R Block) (Terrace Shopping Center)",
+      "latitude": 37.99520902,
+      "longitude": -121.8067564,
+      "href": "#"
+    },
+    "Strip Center (Chipotle, Maple Street Biscuit Company)": {
+      "value": "Strip Center (Chipotle, Maple Street Biscuit Company)",
+      "latitude": 38.00665588,
+      "longitude": -84.51786355,
+      "href": "#"
+    },
+    "Strip Center (Pin Oak Plaza) (Panera Bread, AT&T)": {
+      "value": "Strip Center (Pin Oak Plaza) (Panera Bread, AT&T)",
+      "latitude": 38.00764288,
+      "longitude": -84.4522755,
+      "href": "#"
+    },
+    "Strip Center (Park Place Plaza) (Subway)": {
+      "value": "Strip Center (Park Place Plaza) (Subway)",
+      "latitude": 38.00856211,
+      "longitude": -87.60059643,
+      "href": "#"
+    },
+    "Strip Center and STNL (Stoneman Plaza) (Starbucks)": {
+      "value": "Strip Center and STNL (Stoneman Plaza) (Starbucks)",
+      "latitude": 38.0135971,
+      "longitude": -121.8903469,
+      "href": "#"
+    },
+    "Strip Center (Subway, Pizza Hut)": {
+      "value": "Strip Center (Subway, Pizza Hut)",
+      "latitude": 39.8762024,
+      "longitude": -88.9557553,
+      "href": "#"
+    },
+    "Strip Center (Walmart Plaza Shops) (Dollar Tree, GameStop)": {
+      "value": "Strip Center (Walmart Plaza Shops) (Dollar Tree, GameStop)",
+      "latitude": 38.36643794,
+      "longitude": -122.7150476,
+      "href": "#"
+    },
+    "Strip Center (Old Mill Plaza) (Starbucks, Verizon, Little Ceasars)": {
+      "value": "Strip Center (Old Mill Plaza) (Starbucks, Verizon, Little Ceasars)",
+      "latitude": 38.3710937,
+      "longitude": -120.7995044,
+      "href": "#"
+    },
+    "Strip Center (Gerald Plaza) (Citizens Bank)": {
+      "value": "Strip Center (Gerald Plaza) (Citizens Bank)",
+      "latitude": 38.396852,
+      "longitude": -91.3401777,
+      "href": "#"
+    },
+    "Strip Center (Florin Towne Centre)(Quest Diagnostics, GNC, Game Stop)": {
+      "value": "Strip Center (Florin Towne Centre)(Quest Diagnostics, GNC, Game Stop)",
+      "latitude": 38.4964525,
+      "longitude": -121.434128,
+      "href": "#"
+    },
+    "Strip Center (Mattress Firm, Wayback Burgers)": {
+      "value": "Strip Center (Mattress Firm, Wayback Burgers)",
+      "latitude": 38.4964885,
+      "longitude": -121.4348322,
+      "href": "#"
+    },
+    "Strip Center (Lindbergh Crossing)  (Verizon, Aspen Dental, McAllisters)": {
+      "value": "Strip Center (Lindbergh Crossing)  (Verizon, Aspen Dental, McAllisters)",
+      "latitude": 38.50527551,
+      "longitude": -90.32593955,
+      "href": "#"
+    },
+    "Strip Center (Burger King, Wing Stop, T-Mobile)": {
+      "value": "Strip Center (Burger King, Wing Stop, T-Mobile)",
+      "latitude": 38.58941013,
+      "longitude": -121.5509472,
+      "href": "#"
+    },
+    "Strip Center (Skechers, PetCo)": {
+      "value": "Strip Center (Skechers, PetCo)",
+      "latitude": 38.59031396,
+      "longitude": -121.5487773,
+      "href": "#"
+    },
+    "StripCenter (Five Guys, AT&T)": {
+      "value": "StripCenter (Five Guys, AT&T)",
+      "latitude": 38.59045954,
+      "longitude": -121.5504678,
+      "href": "#"
+    },
+    "Strip Center (Barrett Station Shopping Center)": {
+      "value": "Strip Center (Barrett Station Shopping Center)",
+      "latitude": 38.59752108,
+      "longitude": -90.4754832,
+      "href": "#"
+    },
+    "Strip Center (Salem Shopping Center)(CATO, Dollar Tree, AT&T, The Shoe Depot)": {
+      "value": "Strip Center (Salem Shopping Center)(CATO, Dollar Tree, AT&T, The Shoe Depot)",
+      "latitude": 38.6237644,
+      "longitude": -88.9840878,
+      "href": "#"
+    },
+    "Strip Center (Dollar Tree, CATO, Cricket, H&R Block, Verizon)": {
+      "value": "Strip Center (Dollar Tree, CATO, Cricket, H&R Block, Verizon)",
+      "latitude": 38.6339481,
+      "longitude": -87.1800686,
+      "href": "#"
+    },
+    "Strip Center (Williamstown Commons) (Subway, DaVita Dialysis)": {
+      "value": "Strip Center (Williamstown Commons) (Subway, DaVita Dialysis)",
+      "latitude": 38.65252186,
+      "longitude": -84.57441074,
+      "href": "#"
+    },
+    "Strip Center (AT&T)": {
+      "value": "Strip Center (AT&T)",
+      "latitude": 40.0418949,
+      "longitude": -76.7253247,
+      "href": "#"
+    },
+    "Strip Center (Plaza on the Boulevard shops) (H&R Block, Subway)": {
+      "value": "Strip Center (Plaza on the Boulevard shops) (H&R Block, Subway)",
+      "latitude": 38.72745147,
+      "longitude": -90.27428588,
+      "href": "#"
+    },
+    "Strip Center (Manassas Corner) (Walgreens, T-Mobile)": {
+      "value": "Strip Center (Manassas Corner) (Walgreens, T-Mobile)",
+      "latitude": 38.75647077,
+      "longitude": -77.46597682,
+      "href": "#"
+    },
+    "Strip Center (Batteries Plus Bulbs) (Circle Square)": {
+      "value": "Strip Center (Batteries Plus Bulbs) (Circle Square)",
+      "latitude": 38.79562254,
+      "longitude": -104.7885467,
+      "href": "#"
+    },
+    "Strip Center (Panera Bread, Mattress Firm, School of Rock)": {
+      "value": "Strip Center (Panera Bread, Mattress Firm, School of Rock)",
+      "latitude": 38.7959266,
+      "longitude": -90.6198228,
+      "href": "#"
+    },
+    "Strip Center (Space Village/Peterson Square) (Dairy Queen, Batteries & Bulbs, Statefarm)": {
+      "value": "Strip Center (Space Village/Peterson Square) (Dairy Queen, Batteries & Bulbs, Statefarm)",
+      "latitude": 38.83778324,
+      "longitude": -104.7006858,
+      "href": "#"
+    },
+    "Strip Center (Dollar General, CSL Plasma)": {
+      "value": "Strip Center (Dollar General, CSL Plasma)",
+      "latitude": 38.84389037,
+      "longitude": -76.89124366,
+      "href": "#"
+    },
+    "Strip Center (Mattress Firm, Smoothie King)": {
+      "value": "Strip Center (Mattress Firm, Smoothie King)",
+      "latitude": 38.84413802,
+      "longitude": -76.88334749,
+      "href": "#"
+    },
+    "Strip Center (Wood River Plaza) (Dollar Tree, GameStop, Subway, H&R Block, Sally Beauty, Papa Johns)": {
+      "value": "Strip Center (Wood River Plaza) (Dollar Tree, GameStop, Subway, H&R Block, Sally Beauty, Papa Johns)",
+      "latitude": 38.87212103,
+      "longitude": -90.06973451,
+      "href": "#"
+    },
+    "Strip Center (Austin Bluffs Shopping Center) (Feet Fleet,Fazoli’s, Liberty Tax": {
+      "value": "Strip Center (Austin Bluffs Shopping Center) (Feet Fleet,Fazoli’s, Liberty Tax",
+      "latitude": 38.88997618,
+      "longitude": -104.7605477,
+      "href": "#"
+    },
+    "Strip Center (Olathe Pointe Shops) (AT&T)": {
+      "value": "Strip Center (Olathe Pointe Shops) (AT&T)",
+      "latitude": 38.91112517,
+      "longitude": -94.76070298,
+      "href": "#"
+    },
+    "Strip Center (Ridgeview Marketplace)": {
+      "value": "Strip Center (Ridgeview Marketplace)",
+      "latitude": 38.91176707,
+      "longitude": -104.7155882,
+      "href": "#"
+    },
+    "Mattress Firm Credit Strip": {
+      "value": "Mattress Firm Credit Strip",
+      "latitude": 42.466772,
+      "longitude": -88.06275,
+      "href": "#"
+    },
+    "Strip Center (Panera, Pacific Dental)": {
+      "value": "Strip Center (Panera, Pacific Dental)",
+      "latitude": 38.92549975,
+      "longitude": -104.7168033,
+      "href": "#"
+    },
+    "Strip Center (Bowie Town Center) (Panda Express, Wingstop, First Watch, Charleys)": {
+      "value": "Strip Center (Bowie Town Center) (Panda Express, Wingstop, First Watch, Charleys)",
+      "latitude": 38.94609077,
+      "longitude": -76.73694541,
+      "href": "#"
+    },
+    "Strip Center (Oak Park Pointe) (Mattress Firm, Sleep Number,Jimmy Johns, UBreakIFix))": {
+      "value": "Strip Center (Oak Park Pointe) (Mattress Firm, Sleep Number,Jimmy Johns, UBreakIFix))",
+      "latitude": 38.95759119,
+      "longitude": -94.72439119,
+      "href": "#"
+    },
+    "Strip Center (Flagship Commons) (Five Guys, Dunkin)": {
+      "value": "Strip Center (Flagship Commons) (Five Guys, Dunkin)",
+      "latitude": 39.05209879,
+      "longitude": -77.45016977,
+      "href": "#"
+    },
+    "StripCenter (Urban Outfitters, Verizon)": {
+      "value": "StripCenter (Urban Outfitters, Verizon)",
+      "latitude": 39.12793863,
+      "longitude": -84.51430785,
+      "href": "#"
+    },
+    "Strip Center (Starbucks, CAVA)": {
+      "value": "Strip Center (Starbucks, CAVA)",
+      "latitude": 39.15326419,
+      "longitude": -76.72826071,
+      "href": "#"
+    },
+    "Strip Center (Crossing of Colerain II)(Dunkin')": {
+      "value": "Strip Center (Crossing of Colerain II)(Dunkin')",
+      "latitude": 39.2222423,
+      "longitude": -84.5863954,
+      "href": "#"
+    },
+    "Strip Center (Sauner Square)(T-Mobile, GameStop, Great Clips)": {
+      "value": "Strip Center (Sauner Square)(T-Mobile, GameStop, Great Clips)",
+      "latitude": 39.2260297,
+      "longitude": -83.6236605,
+      "href": "#"
+    },
+    "Strip Center (Liberty Commons)": {
+      "value": "Strip Center (Liberty Commons)",
+      "latitude": 39.24279716,
+      "longitude": -94.45185897,
+      "href": "#"
+    },
+    "Strip Center (20 Mile Station) (DaVita Kidney Care, Heartland Dental)": {
+      "value": "Strip Center (20 Mile Station) (DaVita Kidney Care, Heartland Dental)",
+      "latitude": 39.3058622,
+      "longitude": -84.27830884,
+      "href": "#"
+    },
+    "Strip Center (Aspen Dental)": {
+      "value": "Strip Center (Aspen Dental)",
+      "latitude": 39.3963991,
+      "longitude": -76.5746935,
+      "href": "#"
+    },
+    "Strip Center  (Marshall Square) (H&R Block, Verizon)": {
+      "value": "Strip Center  (Marshall Square) (H&R Block, Verizon)",
+      "latitude": 39.40137612,
+      "longitude": -87.69446841,
+      "href": "#"
+    },
+    "Strip Center (AutoZone, Aaron's": {
+      "value": "Strip Center (AutoZone, Aaron's",
+      "latitude": 39.52203167,
+      "longitude": -107.7734568,
+      "href": "#"
+    },
+    "Strip Center (Shops at Sparks Marina) (Buffalo WIld Wings, The Joint, Chipotle)": {
+      "value": "Strip Center (Shops at Sparks Marina) (Buffalo WIld Wings, The Joint, Chipotle)",
+      "latitude": 39.53401662,
+      "longitude": -119.7179513,
+      "href": "#"
+    },
+    "Strip Center (Legends Retail) (Dunkin,Everbowl,European Wax Center)": {
+      "value": "Strip Center (Legends Retail) (Dunkin,Everbowl,European Wax Center)",
+      "latitude": 39.53479315,
+      "longitude": -119.7161277,
+      "href": "#"
+    },
+    "Strip Center (Oakbrook Shopping Center) (Hertz)": {
+      "value": "Strip Center (Oakbrook Shopping Center) (Hertz)",
+      "latitude": 39.56756957,
+      "longitude": -104.985433,
+      "href": "#"
+    },
+    "Strip Center (Walmart Shadow Center) (Dollar Tree, WVU Medicine, StateFarm, Game Stop)": {
+      "value": "Strip Center (Walmart Shadow Center) (Dollar Tree, WVU Medicine, StateFarm, Game Stop)",
+      "latitude": 39.57999164,
+      "longitude": -79.95625348,
+      "href": "#"
+    },
+    "Strip Center (Target Shops) (Great Clips)": {
+      "value": "Strip Center (Target Shops) (Great Clips)",
+      "latitude": 39.59333958,
+      "longitude": -104.8810382,
+      "href": "#"
+    },
+    "Strip Center (South Village)(Coldwell Banker, PNC Bank)": {
+      "value": "Strip Center (South Village)(Coldwell Banker, PNC Bank)",
+      "latitude": 39.64171423,
+      "longitude": -75.96029784,
+      "href": "#"
+    },
+    "Strip Center (Good Vets)": {
+      "value": "Strip Center (Good Vets)",
+      "latitude": 39.6782944,
+      "longitude": -104.9719893,
+      "href": "#"
+    },
+    "Shopping Center (Shop-Only)": {
+      "value": "Shopping Center (Shop-Only)",
+      "latitude": 39.6811494,
+      "longitude": -105.0551935,
+      "href": "#"
+    },
+    "Strip Center (Cornersville Commons) (Dollar Tree, Shoe Show, Rent-A-Center, Cricket)": {
+      "value": "Strip Center (Cornersville Commons) (Dollar Tree, Shoe Show, Rent-A-Center, Cricket)",
+      "latitude": 39.68165932,
+      "longitude": -85.13758394,
+      "href": "#"
+    },
+    "Connersville Commons": {
+      "value": "Connersville Commons",
+      "latitude": 39.68171714,
+      "longitude": -85.13761341,
+      "href": "#"
+    },
+    "Strip Center (Eastbridge Town Center)": {
+      "value": "Strip Center (Eastbridge Town Center)",
+      "latitude": 39.75985061,
+      "longitude": -104.8688652,
+      "href": "#"
+    },
+    "Strip Center (Eastbridge North Shops)": {
+      "value": "Strip Center (Eastbridge North Shops)",
+      "latitude": 39.76029176,
+      "longitude": -104.8673179,
+      "href": "#"
+    },
+    "Strip Center (DaVita Dialisis, Hertz)": {
+      "value": "Strip Center (DaVita Dialisis, Hertz)",
+      "latitude": 39.76252753,
+      "longitude": -89.64728713,
+      "href": "#"
+    },
+    "Strip Center (Applewood Village) (Mattress Firm)": {
+      "value": "Strip Center (Applewood Village) (Mattress Firm)",
+      "latitude": 39.76565117,
+      "longitude": -105.1420114,
+      "href": "#"
+    },
+    "Credit Strip (Wawa, Pep Boys)": {
+      "value": "Credit Strip (Wawa, Pep Boys)",
+      "latitude": 39.7708406,
+      "longitude": -75.4998567,
+      "href": "#"
+    },
+    "Strip Center (Dollar Tree,H&R Block, Walgreens)": {
+      "value": "Strip Center (Dollar Tree,H&R Block, Walgreens)",
+      "latitude": 39.8019354,
+      "longitude": -89.6492973,
+      "href": "#"
+    },
+    "Strip Center (Brandywine Crossing) (FedEx, Little Caesars)": {
+      "value": "Strip Center (Brandywine Crossing) (FedEx, Little Caesars)",
+      "latitude": 39.80753331,
+      "longitude": -85.76879003,
+      "href": "#"
+    },
+    "Strip Center (Cedar Hill Shopping Center) (Starbucks, UPS, Oragne Theory, The Vitamin Shoppe)": {
+      "value": "Strip Center (Cedar Hill Shopping Center) (Starbucks, UPS, Oragne Theory, The Vitamin Shoppe)",
+      "latitude": 39.83490315,
+      "longitude": -74.92513046,
+      "href": "#"
+    },
+    "Strip Center (Cedar Hill Shopping Center) (AT&T, Great Clips)": {
+      "value": "Strip Center (Cedar Hill Shopping Center) (AT&T, Great Clips)",
+      "latitude": 39.837116,
+      "longitude": -74.92455418,
+      "href": "#"
+    },
+    "Strip Center (Huber Heights Commons) (Jersey Mike's)": {
+      "value": "Strip Center (Huber Heights Commons) (Jersey Mike's)",
+      "latitude": 39.86387645,
+      "longitude": -84.13788801,
+      "href": "#"
+    },
+    "Strip Center (Huber Heights Commons) (Jersey Mikes)": {
+      "value": "Strip Center (Huber Heights Commons) (Jersey Mikes)",
+      "latitude": 39.86437301,
+      "longitude": -84.13775873,
+      "href": "#"
+    },
+    "Strip Center (Washington Plaza) (Crumbl Cookies, Pacific Dental)": {
+      "value": "Strip Center (Washington Plaza) (Crumbl Cookies, Pacific Dental)",
+      "latitude": 39.874369,
+      "longitude": -104.9769929,
+      "href": "#"
+    },
+    "Strip Center (The Shopps at Walnut Creek) (Starbuck's, FLoyd's)": {
+      "value": "Strip Center (The Shopps at Walnut Creek) (Starbuck's, FLoyd's)",
+      "latitude": 39.8868387,
+      "longitude": -105.076418,
+      "href": "#"
+    },
+    "Strip Center (College Park Crossing) (Starbucks, Panera)": {
+      "value": "Strip Center (College Park Crossing) (Starbucks, Panera)",
+      "latitude": 39.92056582,
+      "longitude": -86.22581712,
+      "href": "#"
+    },
+    "Strip Center (Shops on Midway) (Little Caesars)": {
+      "value": "Strip Center (Shops on Midway) (Little Caesars)",
+      "latitude": 39.92183118,
+      "longitude": -105.089121,
+      "href": "#"
+    },
+    "Strip Center (Coalton Crossing)(Starbucks)": {
+      "value": "Strip Center (Coalton Crossing)(Starbucks)",
+      "latitude": 39.9280596,
+      "longitude": -105.1476878,
+      "href": "#"
+    },
+    "Strip Center (Papa John's, Tint World)": {
+      "value": "Strip Center (Papa John's, Tint World)",
+      "latitude": 39.94213513,
+      "longitude": -74.99320854,
+      "href": "#"
+    },
+    "Strip Center (Shoppes at Whitestown)": {
+      "value": "Strip Center (Shoppes at Whitestown)",
+      "latitude": 39.95055443,
+      "longitude": -86.35094322,
+      "href": "#"
+    },
+    "Strip Center (Nine Mile Corner) (FIve Guys, Modern Mint, AT&T, Great Clips)": {
+      "value": "Strip Center (Nine Mile Corner) (FIve Guys, Modern Mint, AT&T, Great Clips)",
+      "latitude": 40.01448404,
+      "longitude": -105.1022833,
+      "href": "#"
+    },
+    "Strip Center (Panera Bread, Sleep Number)": {
+      "value": "Strip Center (Panera Bread, Sleep Number)",
+      "latitude": 40.04107358,
+      "longitude": -74.82493147,
+      "href": "#"
+    },
+    "Strip Center (Shoppes at Oak Ridge) (Tropical Smoothie Cafe, AT&T)": {
+      "value": "Strip Center (Shoppes at Oak Ridge) (Tropical Smoothie Cafe, AT&T)",
+      "latitude": 40.04199048,
+      "longitude": -86.14744052,
+      "href": "#"
+    },
+    "Strip Center (Parkcenter Circle)": {
+      "value": "Strip Center (Parkcenter Circle)",
+      "latitude": 40.07756388,
+      "longitude": -83.13185602,
+      "href": "#"
+    },
+    "Strip Center (Hempfield Shopping Center) (CVS, Statefarm)": {
+      "value": "Strip Center (Hempfield Shopping Center) (CVS, Statefarm)",
+      "latitude": 40.09521148,
+      "longitude": -76.41033148,
+      "href": "#"
+    },
+    "Strip Center (Mattress Firm, Chipotle) & (Five Guys, The Vitamin Shoppe)": {
+      "value": "Strip Center (Mattress Firm, Chipotle) & (Five Guys, The Vitamin Shoppe)",
+      "latitude": 40.13741052,
+      "longitude": -88.25860798,
+      "href": "#"
+    },
+    "Strip Center (FastSigns, Honey Baked Ham)": {
+      "value": "Strip Center (FastSigns, Honey Baked Ham)",
+      "latitude": 40.23804455,
+      "longitude": -76.96448908,
+      "href": "#"
+    },
+    "Strip Center (Chipotle, Wing Stop)": {
+      "value": "Strip Center (Chipotle, Wing Stop)",
+      "latitude": 40.30994895,
+      "longitude": -112.0136411,
+      "href": "#"
+    },
+    "Strip Center (Beck Plaza)( ACE Hardware, Dollar Tree, CATO, Papa Johns, Subway)": {
+      "value": "Strip Center (Beck Plaza)( ACE Hardware, Dollar Tree, CATO, Papa Johns, Subway)",
+      "latitude": 40.3862402,
+      "longitude": -86.9021693,
+      "href": "#"
+    },
+    "Strip Center (Tenneys Retail Plaza) (CBD +, Dunked)": {
+      "value": "Strip Center (Tenneys Retail Plaza) (CBD +, Dunked)",
+      "latitude": 40.38844083,
+      "longitude": -111.909159,
+      "href": "#"
+    },
+    "StripCenter (Aspen Dental & City MD)": {
+      "value": "StripCenter (Aspen Dental & City MD)",
+      "latitude": 40.50092951,
+      "longitude": -74.85505092,
+      "href": "#"
+    },
+    "Strip Center (Harmony Commons)": {
+      "value": "Strip Center (Harmony Commons)",
+      "latitude": 40.52261178,
+      "longitude": -105.0118153,
+      "href": "#"
+    },
+    "Strip Center (Valley View Plaza)(Dollar Tree Goodwill, CATO, Cricket)": {
+      "value": "Strip Center (Valley View Plaza)(Dollar Tree Goodwill, CATO, Cricket)",
+      "latitude": 40.53232307,
+      "longitude": -85.67520008,
+      "href": "#"
+    },
+    "Strip Center (Mo Bettah's, Chipotle, Care Now Urgent Care)": {
+      "value": "Strip Center (Mo Bettah's, Chipotle, Care Now Urgent Care)",
+      "latitude": 40.54399348,
+      "longitude": -111.9758783,
+      "href": "#"
+    },
+    "Strip Center (Shepherd's Corner)(SuperCuts, The UPS Store)": {
+      "value": "Strip Center (Shepherd's Corner)(SuperCuts, The UPS Store)",
+      "latitude": 40.5613691,
+      "longitude": -75.5660377,
+      "href": "#"
+    },
+    "Mattress Firm Strip Center": {
+      "value": "Mattress Firm Strip Center",
+      "latitude": 40.570113,
+      "longitude": -79.801949,
+      "href": "#"
+    },
+    "Strip Center (AYR Wellness, Jersey Mike's)": {
+      "value": "Strip Center (AYR Wellness, Jersey Mike's)",
+      "latitude": 40.60806694,
+      "longitude": -79.18063944,
+      "href": "#"
+    },
+    "Strip Center (Great Clips, Bullfrog Wine & Spirits)": {
+      "value": "Strip Center (Great Clips, Bullfrog Wine & Spirits)",
+      "latitude": 40.6110324,
+      "longitude": -105.0736882,
+      "href": "#"
+    },
+    "Strip Center (Knoxville Plaza)(Rent-A-Center, US Cellular)": {
+      "value": "Strip Center (Knoxville Plaza)(Rent-A-Center, US Cellular)",
+      "latitude": 40.71163129,
+      "longitude": -89.59306725,
+      "href": "#"
+    },
+    "Strip Center (Bay Shore Center) (Capital One, The Vitamin Shoppe)": {
+      "value": "Strip Center (Bay Shore Center) (Capital One, The Vitamin Shoppe)",
+      "latitude": 40.7396345,
+      "longitude": -73.24668,
+      "href": "#"
+    },
+    "Strip Center (New Hyde Park) (Starbucks, Verizon, Citizens Bank)": {
+      "value": "Strip Center (New Hyde Park) (Starbucks, Verizon, Citizens Bank)",
+      "latitude": 40.75413251,
+      "longitude": -73.68816668,
+      "href": "#"
+    },
+    "Strip Centers (T-Mobile & McAlister's)": {
+      "value": "Strip Centers (T-Mobile & McAlister's)",
+      "latitude": 40.75770879,
+      "longitude": -86.31010494,
+      "href": "#"
+    },
+    "Strip Center (Play it Again Sports)": {
+      "value": "Strip Center (Play it Again Sports)",
+      "latitude": 40.79598005,
+      "longitude": -74.34412457,
+      "href": "#"
+    },
+    "Strip Center (Susquehanna Plaza)(Aspen Dental, AT&T)": {
+      "value": "Strip Center (Susquehanna Plaza)(Aspen Dental, AT&T)",
+      "latitude": 40.83100489,
+      "longitude": -76.83987114,
+      "href": "#"
+    },
+    "Strip Center (Amberwood Center) (Dollar Tree, Sally Beauty)": {
+      "value": "Strip Center (Amberwood Center) (Dollar Tree, Sally Beauty)",
+      "latitude": 40.8634919,
+      "longitude": -82.27551666,
+      "href": "#"
+    },
+    "StripCenter (Matress Warehouse)": {
+      "value": "StripCenter (Matress Warehouse)",
+      "latitude": 40.99989456,
+      "longitude": -75.25924526,
+      "href": "#"
+    },
+    "Strip Center (Coldwater Crossing) (Dollar Tree, CATO, Once upon a child)": {
+      "value": "Strip Center (Coldwater Crossing) (Dollar Tree, CATO, Once upon a child)",
+      "latitude": 41.12805932,
+      "longitude": -85.14002825,
+      "href": "#"
+    },
+    "Strip Center (Subway, Agaves Mexican Grill)": {
+      "value": "Strip Center (Subway, Agaves Mexican Grill)",
+      "latitude": 41.13118855,
+      "longitude": -85.0087033,
+      "href": "#"
+    },
+    "Strip Center (GEICO, Verizon)": {
+      "value": "Strip Center (GEICO, Verizon)",
+      "latitude": 41.1546195,
+      "longitude": -73.4243517,
+      "href": "#"
+    },
+    "Strip Center (Hinckley Commons) (Edward Jones)": {
+      "value": "Strip Center (Hinckley Commons) (Edward Jones)",
+      "latitude": 41.16163735,
+      "longitude": -111.94205,
+      "href": "#"
+    },
+    "Strip Center (Starbucks, O'Reilly's)": {
+      "value": "Strip Center (Starbucks, O'Reilly's)",
+      "latitude": 41.1695528,
+      "longitude": -73.2133866,
+      "href": "#"
+    },
+    "Strip Center (Hill Valley Plaza)(Edward Jones)": {
+      "value": "Strip Center (Hill Valley Plaza)(Edward Jones)",
+      "latitude": 41.26147921,
+      "longitude": -95.86655066,
+      "href": "#"
+    },
+    "Strip Center (H&R Block,Dominos, David's Brida, Verizon)": {
+      "value": "Strip Center (H&R Block,Dominos, David's Brida, Verizon)",
+      "latitude": 41.275121,
+      "longitude": -72.99028582,
+      "href": "#"
+    },
+    "Strip Center (Chipotle, Jersey Mikes, Wayback Burgers)": {
+      "value": "Strip Center (Chipotle, Jersey Mikes, Wayback Burgers)",
+      "latitude": 41.30219356,
+      "longitude": -73.22410572,
+      "href": "#"
+    },
+    "Strip Center (Mavis Discount Tire, Dunkin')": {
+      "value": "Strip Center (Mavis Discount Tire, Dunkin')",
+      "latitude": 41.3372121,
+      "longitude": -74.3595263,
+      "href": "#"
+    },
+    "Strip Center (Auburn Shoppes) (McAlister's, Wellnow Urgent Care)": {
+      "value": "Strip Center (Auburn Shoppes) (McAlister's, Wellnow Urgent Care)",
+      "latitude": 41.3662184,
+      "longitude": -85.0771771,
+      "href": "#"
+    },
+    "Strip Center (Ottawa Centre)(The Shoe Dept., Great Clips, Sally Beauty, Rent-A-Center, Maurices, GNC": {
+      "value": "Strip Center (Ottawa Centre)(The Shoe Dept., Great Clips, Sally Beauty, Rent-A-Center, Maurices, GNC",
+      "latitude": 41.378732,
+      "longitude": -88.8412534,
+      "href": "#"
+    },
+    "Strip Center (NAPA Auto Parts)": {
+      "value": "Strip Center (NAPA Auto Parts)",
+      "latitude": 41.3902706,
+      "longitude": -73.2889449,
+      "href": "#"
+    },
+    "Strip Center (Salem Plaza) (Dunkin', Subway)": {
+      "value": "Strip Center (Salem Plaza) (Dunkin', Subway)",
+      "latitude": 41.4760519,
+      "longitude": -72.26387537,
+      "href": "#"
+    },
+    "Strip Center (Silver Commons)(Starbucks, FedEx, Cold Stone, AT&T,Aspen Dental)": {
+      "value": "Strip Center (Silver Commons)(Starbucks, FedEx, Cold Stone, AT&T,Aspen Dental)",
+      "latitude": 41.5089754,
+      "longitude": -72.8089885,
+      "href": "#"
+    },
+    "Strip Center (Five Guys,Benjamin Moore)": {
+      "value": "Strip Center (Five Guys,Benjamin Moore)",
+      "latitude": 41.50919848,
+      "longitude": -87.91941793,
+      "href": "#"
+    },
+    "Strip Center (Prairie Commons)": {
+      "value": "Strip Center (Prairie Commons)",
+      "latitude": 41.5426386,
+      "longitude": -87.8317919,
+      "href": "#"
+    },
+    "Strip Center (Perrysburg Market Square) (Aspen Dental, Verizon, Sport Clips, Sleep Outfitters, Crumb": {
+      "value": "Strip Center (Perrysburg Market Square) (Aspen Dental, Verizon, Sport Clips, Sleep Outfitters, Crumb",
+      "latitude": 41.54584957,
+      "longitude": -83.59429416,
+      "href": "#"
+    },
+    "Strip Center (Century Plaza)(Advance Auto Parts, Walgreens, H&R Block, Boost Mobile)": {
+      "value": "Strip Center (Century Plaza)(Advance Auto Parts, Walgreens, H&R Block, Boost Mobile)",
+      "latitude": 41.55786808,
+      "longitude": -73.05050085,
+      "href": "#"
+    },
+    "Strip Center (Hammond Mills) (Comcast Xfinity)": {
+      "value": "Strip Center (Hammond Mills) (Comcast Xfinity)",
+      "latitude": 41.59529408,
+      "longitude": -87.48663273,
+      "href": "#"
+    },
+    "Strip Center (American Mattress)": {
+      "value": "Strip Center (American Mattress)",
+      "latitude": 41.60192662,
+      "longitude": -87.84750322,
+      "href": "#"
+    },
+    "Strip Center (Orland Park Retail Center)(T-Mobile, Jersey Mikes, Smoothei King, Red Wing)": {
+      "value": "Strip Center (Orland Park Retail Center)(T-Mobile, Jersey Mikes, Smoothei King, Red Wing)",
+      "latitude": 41.60635179,
+      "longitude": -87.85259181,
+      "href": "#"
+    },
+    "Strip Center (Subway, Boost Mobile)": {
+      "value": "Strip Center (Subway, Boost Mobile)",
+      "latitude": 41.61959752,
+      "longitude": -87.55962741,
+      "href": "#"
+    },
+    "Strip Center (Calumet City Strip Center) (Boost Mobile)": {
+      "value": "Strip Center (Calumet City Strip Center) (Boost Mobile)",
+      "latitude": 41.6231062,
+      "longitude": -87.54004621,
+      "href": "#"
+    },
+    "Strip Center (Navarre Corsssing)(Veizon, Sport Clips, Wingstop, Panera Bread)": {
+      "value": "Strip Center (Navarre Corsssing)(Veizon, Sport Clips, Wingstop, Panera Bread)",
+      "latitude": 41.63729863,
+      "longitude": -83.4776788,
+      "href": "#"
+    },
+    "Strip Center (McCord Landings)(Subway)": {
+      "value": "Strip Center (McCord Landings)(Subway)",
+      "latitude": 41.6520305,
+      "longitude": -83.702726,
+      "href": "#"
+    },
+    "Strip Center (Michigan City Marketplace) (AT&T, American Mattress)": {
+      "value": "Strip Center (Michigan City Marketplace) (AT&T, American Mattress)",
+      "latitude": 41.67330971,
+      "longitude": -86.89339085,
+      "href": "#"
+    },
+    "Strip Center (Alsip Plaza)(Dairy Queen)": {
+      "value": "Strip Center (Alsip Plaza)(Dairy Queen)",
+      "latitude": 41.67337244,
+      "longitude": -87.71846064,
+      "href": "#"
+    },
+    "Strip Center (Papa John's) (Hope Plaza II)": {
+      "value": "Strip Center (Papa John's) (Hope Plaza II)",
+      "latitude": 41.6945995,
+      "longitude": -93.7760318,
+      "href": "#"
+    },
+    "Strip Center (T-Mobile, State Farm)": {
+      "value": "Strip Center (T-Mobile, State Farm)",
+      "latitude": 41.6989504,
+      "longitude": -72.6579785,
+      "href": "#"
+    },
+    "Strip Center (Marco's Pizza, Verizon)": {
+      "value": "Strip Center (Marco's Pizza, Verizon)",
+      "latitude": 41.70810158,
+      "longitude": -83.49789938,
+      "href": "#"
+    },
+    "Strip Center (Suder Square) (Family Dollar)": {
+      "value": "Strip Center (Suder Square) (Family Dollar)",
+      "latitude": 41.713712,
+      "longitude": -83.50044374,
+      "href": "#"
+    },
+    "Strip Center (Chatham Market) (Game Stop, BMO Harris Bank)": {
+      "value": "Strip Center (Chatham Market) (Game Stop, BMO Harris Bank)",
+      "latitude": 41.74329311,
+      "longitude": -87.63245449,
+      "href": "#"
+    },
+    "Strip Center (Chipotle, GameStop, Panda Express)": {
+      "value": "Strip Center (Chipotle, GameStop, Panda Express)",
+      "latitude": 41.7685787,
+      "longitude": -88.2063605,
+      "href": "#"
+    },
+    "Strip Center (Anytime Fitness, Dairy Queen, Just Tires)": {
+      "value": "Strip Center (Anytime Fitness, Dairy Queen, Just Tires)",
+      "latitude": 41.78378607,
+      "longitude": -88.03767543,
+      "href": "#"
+    },
+    "Strip Center (Maple Terrace Shopping Center) (Starbucks, Papa Johns, H&R Block, The UPS Store, Jerse": {
+      "value": "Strip Center (Maple Terrace Shopping Center) (Starbucks, Papa Johns, H&R Block, The UPS Store, Jerse",
+      "latitude": 41.78732037,
+      "longitude": -88.07296534,
+      "href": "#"
+    },
+    "Strip Center (Social Security Administration)": {
+      "value": "Strip Center (Social Security Administration)",
+      "latitude": 41.7982995,
+      "longitude": -87.6643736,
+      "href": "#"
+    },
+    "Strip Center (Mansfield Shopping Center) (Dollar General, CVS Pharmacy, Pizza Hut, Rent A Center, H&": {
+      "value": "Strip Center (Mansfield Shopping Center) (Dollar General, CVS Pharmacy, Pizza Hut, Rent A Center, H&",
+      "latitude": 41.81144122,
+      "longitude": -77.08095907,
+      "href": "#"
+    },
+    "Randall Square Shops (Hand & Stone, Popeyes, Men's Wearhouse, McAlister's Deli, Golftec)": {
+      "value": "Randall Square Shops (Hand & Stone, Popeyes, Men's Wearhouse, McAlister's Deli, Golftec)",
+      "latitude": 41.87544216,
+      "longitude": -88.34119236,
+      "href": "#"
+    },
+    "Strip Center (Geneva Crossing) (Davita, Goodwill)": {
+      "value": "Strip Center (Geneva Crossing) (Davita, Goodwill)",
+      "latitude": 41.8901308,
+      "longitude": -88.1109087,
+      "href": "#"
+    },
+    "Strip Center (The Fountains at Town Center)": {
+      "value": "Strip Center (The Fountains at Town Center)",
+      "latitude": 41.9312398,
+      "longitude": -88.1233977,
+      "href": "#"
+    },
+    "Strip Center (CVS, Dunkin, H&R Block)": {
+      "value": "Strip Center (CVS, Dunkin, H&R Block)",
+      "latitude": 41.9977855,
+      "longitude": -87.7270798,
+      "href": "#"
+    },
+    "Strip Center (CVS & Dunkin', H&R Block)": {
+      "value": "Strip Center (CVS & Dunkin', H&R Block)",
+      "latitude": 41.99783552,
+      "longitude": -87.72816462,
+      "href": "#"
+    },
+    "Strip Center (Mannheim Pratt Center)(Five Guys, First Watch)": {
+      "value": "Strip Center (Mannheim Pratt Center)(Five Guys, First Watch)",
+      "latitude": 42.002246,
+      "longitude": -87.884151,
+      "href": "#"
+    },
+    "Strip Center (Jersey Mikes)": {
+      "value": "Strip Center (Jersey Mikes)",
+      "latitude": 42.00956764,
+      "longitude": -87.82649914,
+      "href": "#"
+    },
+    "Strip Center (Gross Point Crossings) (Subway, Panda Express, FedEx)": {
+      "value": "Strip Center (Gross Point Crossings) (Subway, Panda Express, FedEx)",
+      "latitude": 42.0412206,
+      "longitude": -87.75785956,
+      "href": "#"
+    },
+    "StripCenter (Chipotle, Five Guys, Jersey Mikes, T-Mobile)": {
+      "value": "StripCenter (Chipotle, Five Guys, Jersey Mikes, T-Mobile)",
+      "latitude": 42.08112343,
+      "longitude": -87.9354984,
+      "href": "#"
+    },
+    "Strip Center (Mod Pizza)": {
+      "value": "Strip Center (Mod Pizza)",
+      "latitude": 42.08402793,
+      "longitude": -87.93639308,
+      "href": "#"
+    },
+    "Strip Center (Panera, GNC, Nothing Bundt Cakes)": {
+      "value": "Strip Center (Panera, GNC, Nothing Bundt Cakes)",
+      "latitude": 42.08519105,
+      "longitude": -87.93639835,
+      "href": "#"
+    },
+    "Strip Center (7-Eleven, Eastern Bank, Sprint)": {
+      "value": "Strip Center (7-Eleven, Eastern Bank, Sprint)",
+      "latitude": 42.2211346,
+      "longitude": -70.9696331,
+      "href": "#"
+    },
+    "Strip Center (Bohl Farm Marketplace Lot 5) (Panda Express, FedEx, Famous Footwear)": {
+      "value": "Strip Center (Bohl Farm Marketplace Lot 5) (Panda Express, FedEx, Famous Footwear)",
+      "latitude": 42.2269173,
+      "longitude": -88.3019463,
+      "href": "#"
+    },
+    "Strip Center (Bohl Farm Marketplace Lot 6) (Lens Crafters)": {
+      "value": "Strip Center (Bohl Farm Marketplace Lot 6) (Lens Crafters)",
+      "latitude": 42.2274286,
+      "longitude": -88.3019889,
+      "href": "#"
+    },
+    "Strip Center (Wisner Plaza) (Once Upon A Child, AAA, Pet Supplies Plus)": {
+      "value": "Strip Center (Wisner Plaza) (Once Upon A Child, AAA, Pet Supplies Plus)",
+      "latitude": 42.261494,
+      "longitude": -84.4293087,
+      "href": "#"
+    },
+    "Strip Center (AT&T & Aspen Dental)": {
+      "value": "Strip Center (AT&T & Aspen Dental)",
+      "latitude": 42.26188596,
+      "longitude": -85.17370951,
+      "href": "#"
+    },
+    "Strip Center (Southgate Plaza)(gameStop, GreatClips, US Cellular)": {
+      "value": "Strip Center (Southgate Plaza)(gameStop, GreatClips, US Cellular)",
+      "latitude": 42.2626544,
+      "longitude": -89.6303505,
+      "href": "#"
+    },
+    "Strip Center (Needham Gateway Shops) (Panera Bread, Geico)": {
+      "value": "Strip Center (Needham Gateway Shops) (Panera Bread, Geico)",
+      "latitude": 42.3049355,
+      "longitude": -71.21859067,
+      "href": "#"
+    },
+    "Strip Center (Westview Plaza) (Family Dollar, O'Reilly Auto Parts)": {
+      "value": "Strip Center (Westview Plaza) (Family Dollar, O'Reilly Auto Parts)",
+      "latitude": 42.3287038,
+      "longitude": -83.3863485,
+      "href": "#"
+    },
+    "Strip Center (Walgreens) (Little Caesars)": {
+      "value": "Strip Center (Walgreens) (Little Caesars)",
+      "latitude": 42.34442829,
+      "longitude": -83.00954956,
+      "href": "#"
+    },
+    "Strip Center (Panera, US Cellular)": {
+      "value": "Strip Center (Panera, US Cellular)",
+      "latitude": 42.36602011,
+      "longitude": -89.02735971,
+      "href": "#"
+    },
+    "StripCenter (Little Caesars Strip)": {
+      "value": "StripCenter (Little Caesars Strip)",
+      "latitude": 42.43762219,
+      "longitude": -122.8382199,
+      "href": "#"
+    },
+    "StripCenter (Ben & Jerry's, Subway)": {
+      "value": "StripCenter (Ben & Jerry's, Subway)",
+      "latitude": 42.44391637,
+      "longitude": -73.2547465,
+      "href": "#"
+    },
+    "Strip Center (Shops at Lakeport Commons) (Chipotle, Mattress Firm, Buff City Soap, Sleep Number)": {
+      "value": "Strip Center (Shops at Lakeport Commons) (Chipotle, Mattress Firm, Buff City Soap, Sleep Number)",
+      "latitude": 42.44585663,
+      "longitude": -96.34275511,
+      "href": "#"
+    },
+    "Strip Center (Dunkin')": {
+      "value": "Strip Center (Dunkin')",
+      "latitude": 42.4482428,
+      "longitude": -71.009614,
+      "href": "#"
+    },
+    "Strip Center (Great Clips, T-Mobile)": {
+      "value": "Strip Center (Great Clips, T-Mobile)",
+      "latitude": 42.46777336,
+      "longitude": -88.06663942,
+      "href": "#"
+    },
+    "Strip Center (Energy Park)": {
+      "value": "Strip Center (Energy Park)",
+      "latitude": 42.48238176,
+      "longitude": -92.456709,
+      "href": "#"
+    },
+    "Strip Center (Metro North) (The Vitamin Shoppe, Petco, Starbucks)": {
+      "value": "Strip Center (Metro North) (The Vitamin Shoppe, Petco, Starbucks)",
+      "latitude": 42.51752789,
+      "longitude": -71.13714279,
+      "href": "#"
+    },
+    "Strip Center (Twin City Plaza) (Moes, AT&T)": {
+      "value": "Strip Center (Twin City Plaza) (Moes, AT&T)",
+      "latitude": 42.55217775,
+      "longitude": -71.78123503,
+      "href": "#"
+    },
+    "Strip Center (Commerce Shoppes)": {
+      "value": "Strip Center (Commerce Shoppes)",
+      "latitude": 42.596344,
+      "longitude": -83.4921699,
+      "href": "#"
+    },
+    "Strip Center (Mount Pleasant Plaza) (Dollar Tree, Pet Supplies Plus, Bio Life Plasma)": {
+      "value": "Strip Center (Mount Pleasant Plaza) (Dollar Tree, Pet Supplies Plus, Bio Life Plasma)",
+      "latitude": 42.69637139,
+      "longitude": -87.84630494,
+      "href": "#"
+    },
+    "Strip Center (H&R Block)": {
+      "value": "Strip Center (H&R Block)",
+      "latitude": 42.7064794,
+      "longitude": -71.13388939,
+      "href": "#"
+    },
+    "Strip Center (Starbucks, LensCrafters)": {
+      "value": "Strip Center (Starbucks, LensCrafters)",
+      "latitude": 42.7134526,
+      "longitude": -89.0000782,
+      "href": "#"
+    },
+    "Strip Center (Chipotle, AZPetVet)": {
+      "value": "Strip Center (Chipotle, AZPetVet)",
+      "latitude": 42.76016082,
+      "longitude": -84.505821,
+      "href": "#"
+    },
+    "Strip Center (AT&T, Subway)": {
+      "value": "Strip Center (AT&T, Subway)",
+      "latitude": 42.78961483,
+      "longitude": -78.78210651,
+      "href": "#"
+    },
+    "Whitewater Plaza (Jimmy John's, Anytime Fitness)": {
+      "value": "Whitewater Plaza (Jimmy John's, Anytime Fitness)",
+      "latitude": 42.8344431,
+      "longitude": -88.75053013,
+      "href": "#"
+    },
+    "Strip Center (Longhorn Steakhouse)": {
+      "value": "Strip Center (Longhorn Steakhouse)",
+      "latitude": 42.90767145,
+      "longitude": -78.76147724,
+      "href": "#"
+    },
+    "Strip Center (Cascade Center)": {
+      "value": "Strip Center (Cascade Center)",
+      "latitude": 42.91221555,
+      "longitude": -85.51392143,
+      "href": "#"
+    },
+    "Strip Center (Chipotle, T-Mobile)": {
+      "value": "Strip Center (Chipotle, T-Mobile)",
+      "latitude": 42.92517451,
+      "longitude": -72.28978762,
+      "href": "#"
+    },
+    "Strip Center (Moorland Point) (Papa Murphy's)": {
+      "value": "Strip Center (Moorland Point) (Papa Murphy's)",
+      "latitude": 42.97503669,
+      "longitude": -88.10778458,
+      "href": "#"
+    },
+    "Strip Center (AT&T, Tropical Smoothie, Elements Massage, The Joint Chiropractic)": {
+      "value": "Strip Center (AT&T, Tropical Smoothie, Elements Massage, The Joint Chiropractic)",
+      "latitude": 42.98956572,
+      "longitude": -88.0480083,
+      "href": "#"
+    },
+    "StripCenter (Dollartree)": {
+      "value": "StripCenter (Dollartree)",
+      "latitude": 42.99103358,
+      "longitude": -85.7551292,
+      "href": "#"
+    },
+    "Strip Center (Boost Mobile, Domino's)": {
+      "value": "Strip Center (Boost Mobile, Domino's)",
+      "latitude": 42.99282628,
+      "longitude": -83.73286113,
+      "href": "#"
+    },
+    "Strip Center (Owosso Retail Center) (Qdoba, T-Mobile, Citizens Bank)": {
+      "value": "Strip Center (Owosso Retail Center) (Qdoba, T-Mobile, Citizens Bank)",
+      "latitude": 42.9972909,
+      "longitude": -84.1585677,
+      "href": "#"
+    },
+    "Strip Center (Alpine Ridge) (Jimmy Johns, ubreakifix)": {
+      "value": "Strip Center (Alpine Ridge) (Jimmy Johns, ubreakifix)",
+      "latitude": 43.03750239,
+      "longitude": -85.68873926,
+      "href": "#"
+    },
+    "Strip Center (Glenport Retail Center)": {
+      "value": "Strip Center (Glenport Retail Center)",
+      "latitude": 43.11769698,
+      "longitude": -87.91644859,
+      "href": "#"
+    },
+    "Strip Center (First Citizens Bank & Crumbl Cookies)": {
+      "value": "Strip Center (First Citizens Bank & Crumbl Cookies)",
+      "latitude": 43.11891337,
+      "longitude": -87.91377347,
+      "href": "#"
+    },
+    "Strip Center (Chipotle, One Medical)": {
+      "value": "Strip Center (Chipotle, One Medical)",
+      "latitude": 43.1249983,
+      "longitude": -87.9133119,
+      "href": "#"
+    },
+    "Strip Center (Shoppes at Westgate)( (Panera)": {
+      "value": "Strip Center (Shoppes at Westgate)( (Panera)",
+      "latitude": 43.13206981,
+      "longitude": -77.69175284,
+      "href": "#"
+    },
+    "Strip Center (Shops at University)(Tim Hortons)": {
+      "value": "Strip Center (Shops at University)(Tim Hortons)",
+      "latitude": 43.1514971,
+      "longitude": -77.5687929,
+      "href": "#"
+    },
+    "Strip Center (Watertown Strip) (GameStop, Rosati's)": {
+      "value": "Strip Center (Watertown Strip) (GameStop, Rosati's)",
+      "latitude": 43.1602012,
+      "longitude": -88.73144172,
+      "href": "#"
+    },
+    "Strip Center (Pizza Hut, KFC)": {
+      "value": "Strip Center (Pizza Hut, KFC)",
+      "latitude": 43.1877876,
+      "longitude": -88.7289304,
+      "href": "#"
+    },
+    "Strip Center (Grafton Retain Center) (Chipotle, Five Guys, T-Mobile)": {
+      "value": "Strip Center (Grafton Retain Center) (Chipotle, Five Guys, T-Mobile)",
+      "latitude": 43.31399027,
+      "longitude": -87.92451262,
+      "href": "#"
+    },
+    "Strip Center (Ippels)(Huntingon Bank)": {
+      "value": "Strip Center (Ippels)(Huntingon Bank)",
+      "latitude": 43.41757181,
+      "longitude": -83.96435909,
+      "href": "#"
+    },
+    "Strip Center (Gateway Plaza) (Edward Jones)": {
+      "value": "Strip Center (Gateway Plaza) (Edward Jones)",
+      "latitude": 43.48470917,
+      "longitude": -88.80960877,
+      "href": "#"
+    },
+    "Strip Center (East Benson Plaza) (Jimmy Johns)": {
+      "value": "Strip Center (East Benson Plaza) (Jimmy Johns)",
+      "latitude": 43.58679984,
+      "longitude": -96.70968692,
+      "href": "#"
+    },
+    "Strip Center (Chipotle,Aspen Dental)": {
+      "value": "Strip Center (Chipotle,Aspen Dental)",
+      "latitude": 44.02130897,
+      "longitude": -71.11615959,
+      "href": "#"
+    },
+    "Strip Center (Evans Mills Shopping Center)(Dollar Tree, Little Ceasars, Navy Federal, Verizon)": {
+      "value": "Strip Center (Evans Mills Shopping Center)(Dollar Tree, Little Ceasars, Navy Federal, Verizon)",
+      "latitude": 44.0404775,
+      "longitude": -75.8445092,
+      "href": "#"
+    },
+    "Strip Center (Five Guys, Jersey Mikes, Noodles & Co.)": {
+      "value": "Strip Center (Five Guys, Jersey Mikes, Noodles & Co.)",
+      "latitude": 44.17085672,
+      "longitude": -93.94706655,
+      "href": "#"
+    },
+    "Strip Center (Dunkin and Circle K)": {
+      "value": "Strip Center (Dunkin and Circle K)",
+      "latitude": 44.42311403,
+      "longitude": -69.02591619,
+      "href": "#"
+    },
+    "Strip Center (Shoppes of Crossroads)( Mattress Firm, Sally Beauty, StateFarm, Aspen Dental": {
+      "value": "Strip Center (Shoppes of Crossroads)( Mattress Firm, Sally Beauty, StateFarm, Aspen Dental",
+      "latitude": 44.49693826,
+      "longitude": -89.51569936,
+      "href": "#"
+    },
+    "Strip Center (Verizon, Spectrum, Harbor Freight, Great Clips)": {
+      "value": "Strip Center (Verizon, Spectrum, Harbor Freight, Great Clips)",
+      "latitude": 44.52254611,
+      "longitude": -89.51849067,
+      "href": "#"
+    },
+    "Strip Center (Family Dollar, Pizza Hut)": {
+      "value": "Strip Center (Family Dollar, Pizza Hut)",
+      "latitude": 44.6569023,
+      "longitude": -103.8575351,
+      "href": "#"
+    },
+    "Strip Center (Walgreens, Caribou Coffee, T-Mobile, Jimmy Johns)": {
+      "value": "Strip Center (Walgreens, Caribou Coffee, T-Mobile, Jimmy Johns)",
+      "latitude": 44.85963828,
+      "longitude": -93.30947025,
+      "href": "#"
+    },
+    "Strip Center (Ru De France) (Geico, Crumble, Kohler, Brueggers Bagels)": {
+      "value": "Strip Center (Ru De France) (Geico, Crumble, Kohler, Brueggers Bagels)",
+      "latitude": 44.87456475,
+      "longitude": -93.32746311,
+      "href": "#"
+    },
+    "Strip Center (Original Mattress Factory)": {
+      "value": "Strip Center (Original Mattress Factory)",
+      "latitude": 44.93795179,
+      "longitude": -92.937426,
+      "href": "#"
+    },
+    "Strip Center (The Poine at Glen Creek) (Davita, Gentle Dental)": {
+      "value": "Strip Center (The Poine at Glen Creek) (Davita, Gentle Dental)",
+      "latitude": 44.9497967,
+      "longitude": -123.0520993,
+      "href": "#"
+    },
+    "Strip Center (Keizer Village) (Subway, Goodwill, Metro by T- Mobile)": {
+      "value": "Strip Center (Keizer Village) (Subway, Goodwill, Metro by T- Mobile)",
+      "latitude": 44.98187455,
+      "longitude": -123.0252233,
+      "href": "#"
+    },
+    "Strip Center (Keizer Plaza) (Cricket Wireless)": {
+      "value": "Strip Center (Keizer Plaza) (Cricket Wireless)",
+      "latitude": 44.9946795,
+      "longitude": -123.0264122,
+      "href": "#"
+    },
+    "Strip Center (Starbucks, Heartland Dental)": {
+      "value": "Strip Center (Starbucks, Heartland Dental)",
+      "latitude": 45.18338402,
+      "longitude": -93.11017749,
+      "href": "#"
+    },
+    "Strip Center (Greenhouse Square)": {
+      "value": "Strip Center (Greenhouse Square)",
+      "latitude": 45.40641992,
+      "longitude": -122.5679003,
+      "href": "#"
+    },
+    "Strip Center (Chipotle, AT&T)": {
+      "value": "Strip Center (Chipotle, AT&T)",
+      "latitude": 45.49971154,
+      "longitude": -122.4109742,
+      "href": "#"
+    },
+    "Strip Center (Salmon Creek Center) (Pizza Hut)": {
+      "value": "Strip Center (Salmon Creek Center) (Pizza Hut)",
+      "latitude": 45.72493921,
+      "longitude": -122.6505998,
+      "href": "#"
+    },
+    "Strip Center (Harrison Shops) (GameStop, Sally Beauty Supply, Spectrum)": {
+      "value": "Strip Center (Harrison Shops) (GameStop, Sally Beauty Supply, Spectrum)",
+      "latitude": 45.9784267,
+      "longitude": -112.5085447,
+      "href": "#"
+    },
+    "Strip Center (Lincoln Crossing) (Mattress Firm, Jimmy John's, Great Clips, Caribou Coffee)": {
+      "value": "Strip Center (Lincoln Crossing) (Mattress Firm, Jimmy John's, Great Clips, Caribou Coffee)",
+      "latitude": 46.29012287,
+      "longitude": -96.11348536,
+      "href": "#"
+    },
+    "Strip Center (McDonald's, Verizon)": {
+      "value": "Strip Center (McDonald's, Verizon)",
+      "latitude": 46.58505593,
+      "longitude": -95.57466666,
+      "href": "#"
+    },
+    "Strip Center (Miller Hill Crossroads) (Starbucks, Aspen Dental)": {
+      "value": "Strip Center (Miller Hill Crossroads) (Starbucks, Aspen Dental)",
+      "latitude": 46.8006293,
+      "longitude": -92.14350234,
+      "href": "#"
+    },
+    "Strip Center (Verizon, Aaron's)": {
+      "value": "Strip Center (Verizon, Aaron's)",
+      "latitude": 46.97774816,
+      "longitude": -123.8022017,
+      "href": "#"
+    },
+    "Strip Center (Spanaway Plaza)(Subway, Rent-A-Center)": {
+      "value": "Strip Center (Spanaway Plaza)(Subway, Rent-A-Center)",
+      "latitude": 47.0989004,
+      "longitude": -122.4338179,
+      "href": "#"
+    },
+    "Strip Center (Lake Meridan Station) (Little Caesars)": {
+      "value": "Strip Center (Lake Meridan Station) (Little Caesars)",
+      "latitude": 47.35747079,
+      "longitude": -122.1354846,
+      "href": "#"
+    },
+    "Strip Center (West Side Commons) (Dollar Tree, Fresenius Medical Care)": {
+      "value": "Strip Center (West Side Commons) (Dollar Tree, Fresenius Medical Care)",
+      "latitude": 47.3997758,
+      "longitude": -92.96327999,
+      "href": "#"
+    },
+    "Strip Center (T-Mobile, Shopko Optical)": {
+      "value": "Strip Center (T-Mobile, Shopko Optical)",
+      "latitude": 47.52052841,
+      "longitude": -92.59076099,
+      "href": "#"
+    },
+    "Strip Center (Allstate)": {
+      "value": "Strip Center (Allstate)",
+      "latitude": 47.53454648,
+      "longitude": -122.6127405,
+      "href": "#"
+    },
+    "LA Fitness (Strip W/Jjersey Mikes, T-Mobile)": {
+      "value": "LA Fitness (Strip W/Jjersey Mikes, T-Mobile)",
+      "latitude": 47.726277,
+      "longitude": -122.343182,
+      "href": "#"
+    }
+  }

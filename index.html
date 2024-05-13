@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>StripCenters Map</title>
+    <style type="text/css">
+        body {
+            color: #5d5d5d;
+            font-family: Helvetica, Arial, sans-serif;
+        }
+
+        h1, h2 {
+            font-size: 30px;
+            margin: auto;
+            margin-top: 50px;
+            color: #f4f4e8;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+
+        /* Specific mapael css class are below
+         * 'mapael' class is added by plugin
+        */
+
+        .mapael .map {
+            position: relative;
+           
+        }
+
+        .mapael .mapTooltip {
+            position: absolute;
+            opacity: 0.70;
+            border-radius: 10px;
+            padding: 10px;
+            z-index: 1000;
+            max-width: 200px;
+            display: none;
+            color: #fff;
+        }
+/*ALASKA & HAWAII */
+        path[data-id="AK"] {
+            opacity: 0;
+        }
+
+        path[data-id="HI"] {
+            opacity: 0;
+        }
+/* PACIFIC */
+        path[data-id="WA"] {
+            fill: #5a80c7;
+        }
+        path[data-id="OR"] {
+            fill: #5a80c7;
+        }
+        path[data-id="CA"] {
+            fill: #5a80c7;
+        }
+        path[data-id="WA"]:hover {
+            fill: #1f98ac;
+        }
+        path[data-id="OR"]:hover {
+            fill: #1f98ac;
+        }
+        path[data-id="CA"]:hover {
+            fill: #1f98ac;
+        }
+        
+/* WEST */
+        path[data-id="ID"] {
+            fill: #4687ff;
+        }
+        path[data-id="MT"] {
+            fill: #4687ff;
+        }
+        path[data-id="ND"] {
+            fill: #4687ff;
+        }
+        path[data-id="WY"] {
+            fill: #4687ff;
+        }
+        path[data-id="SD"] {
+            fill: #4687ff;
+        }
+        path[data-id="NV"] {
+            fill: #4687ff;
+        }
+        path[data-id="UT"] {
+            fill: #4687ff;
+        }
+        path[data-id="CO"] {
+            fill: #4687ff;
+        }
+        path[data-id="KS"] {
+            fill: #4687ff;
+        }
+        path[data-id="NE"] {
+            fill: #4687ff;
+        }
+        path[data-id="ID"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="MT"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="ND"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="SD"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="WY"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="NV"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="UT"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="CO"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="KS"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="NE"]:hover{
+            fill: #1f98ac;
+        }
+
+/* SOUTH WEST */
+        path[data-id="AZ"] {
+            fill: #675fff;
+        }
+        path[data-id="NM"] {
+            fill: #675fff;
+        }
+        path[data-id="TX"] {
+            fill: #675fff;
+        }
+        path[data-id="OK"] {
+            fill: #675fff;
+        }
+        path[data-id="AZ"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="NM"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="TX"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="OK"]:hover{
+            fill: #1f98ac;
+        }
+
+/* SOUTH WEST */
+        path[data-id="MN"]{
+            fill: #1298ff;
+        }
+        path[data-id="IA"]{
+            fill: #1298ff;
+        }
+        path[data-id="MO"]{
+            fill: #1298ff;
+        }
+        path[data-id="IL"]{
+            fill: #1298ff;
+        }
+        path[data-id="WI"]{
+            fill: #1298ff;
+        }
+        path[data-id="MI"]{
+            fill: #1298ff;
+        }
+        path[data-id="IN"]{
+            fill: #1298ff;
+        }
+        path[data-id="OH"]{
+            fill: #1298ff;
+        }
+        path[data-id="WV"]{
+            fill: #1298ff;
+        }
+        path[data-id="MN"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="IA"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="MO"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="IL"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="WI"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="MI"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="IN"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="OH"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="WV"]:hover{
+            fill: #1f98ac;
+        }
+
+/* NORTH EAST */
+        path[data-id="ME"]{
+            fill: #016cbf;
+        }
+        path[data-id="NH"]{
+            fill: #016cbf;
+        }
+        path[data-id="VT"]{
+            fill: #016cbf;
+        }
+        path[data-id="MA"]{
+            fill: #016cbf;
+        }
+        path[data-id="RI"]{
+            fill: #016cbf;
+        }
+        path[data-id="CT"]{
+            fill: #016cbf;
+        }
+        path[data-id="NY"]{
+            fill: #016cbf;
+        }
+        path[data-id="NJ"]{
+            fill: #016cbf;
+        }
+        path[data-id="PA"]{
+            fill: #016cbf;
+        }
+        path[data-id="MD"]{
+            fill: #016cbf;
+        }
+        path[data-id="DE"]{
+            fill: #016cbf;
+        }
+        
+        path[data-id="ME"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="NH"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="VT"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="MA"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="RI"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="CT"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="NY"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="NJ"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="PA"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="MD"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="DE"]:hover{
+            fill: #1f98ac;
+        }
+
+/*SOUTH EAST*/
+
+        path[data-id="VA"]{
+            fill: #6cbefd;
+        }
+        path[data-id="NC"]{
+            fill: #6cbefd;
+        }
+        path[data-id="SC"]{
+            fill: #6cbefd;
+        }
+        path[data-id="GA"]{
+            fill: #6cbefd;
+        }
+        path[data-id="FL"]{
+            fill: #6cbefd;
+        }
+        path[data-id="KY"]{
+            fill: #6cbefd;
+        }
+        path[data-id="TN"]{
+            fill: #6cbefd;
+        }
+        path[data-id="AL"]{
+            fill: #6cbefd;
+        }
+        path[data-id="MS"]{
+            fill: #6cbefd;
+        }
+        path[data-id="LA"]{
+            fill: #6cbefd;
+        }
+        path[data-id="AR"]{
+            fill: #6cbefd;
+        }
+
+        path[data-id="VA"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="NC"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="SC"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="GA"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="FL"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="KY"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="TN"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="AL"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="MS"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="LA"]:hover{
+            fill: #1f98ac;
+        }
+        path[data-id="AR"]:hover{
+            fill: #1f98ac;
+        }
+
+
+
+
+    </style>
+<script>
+    
+</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js" charset="utf-8"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"
+            charset="utf-8"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.7/raphael.min.js" charset="utf-8"></script>
+    <script src="../../js/jquery.mapael.js" charset="utf-8"></script>
+    <script src="../../js/maps/france_departments.js" charset="utf-8"></script>
+    <script src="../../js/maps/world_countries.js" charset="utf-8"></script>
+    <script src="../../js/maps/usa_states.js" charset="utf-8"></script>
+
+    <script type="text/javascript">
+        $(function () {
+          $.getJSON(`stripcenters.json?${Date.now()}`, function (data){
+            console.log(data)
+            $(".mapcontainer").mapael({
+                map: {
+                    name: "usa_states"
+                    , defaultArea: {
+                        attrs: {
+                            fill: "#4687ff"
+                            , stroke: "#ffffff"
+                        }   
+                        , attrsHover: {
+                            fill: "#6cbefd"
+                        }
+                    }
+                },
+ 
+                plots:data
+            });
+        });
+          });
+    </script>
+
+</head>
+
+<body>
+<div class="container">
+
+    <div class="mapcontainer">
+        
+        <div class="map">
+        </div>
+
+    </div>
+</div>
+</body>
+</html>
